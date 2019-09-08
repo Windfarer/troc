@@ -17,12 +17,13 @@ from django.contrib import admin
 from django.urls import include, path
 from rest_framework import routers
 
-from species import views
+from species import views as species_views
 
 router = routers.DefaultRouter()
-router.register(r'species', views.SpeciesViewSet)
+router.register('species', species_views.SpeciesViewSet)
 
 urlpatterns = [
     path('', include(router.urls)),
+    path('accounts/', include('allauth.urls')),
     path('admin/', admin.site.urls),
 ]
