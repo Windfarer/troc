@@ -17,7 +17,7 @@ from django.contrib import admin
 from django.urls import include, path
 from rest_framework import routers
 
-from species import views as species_views
+from .apps.species import views as species_views
 
 router = routers.DefaultRouter()
 router.register('species', species_views.SpeciesViewSet)
