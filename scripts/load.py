@@ -1,6 +1,6 @@
 import csv
 
-from species.models import Species
+from troc.apps.species.models import Species
 
 def load_data(file_path):
     with open(file_path) as f:
