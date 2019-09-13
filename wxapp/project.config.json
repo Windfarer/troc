@@ -2,7 +2,7 @@
 	"miniprogramRoot": "dist/",
 	"projectname": "wxapp",
 	"description": "",
-	"appid": "touristappid",
+	"appid": "wx232450aa81694635",
 	"setting": {
 		"urlCheck": true,
 		"es6": false,
@@ -12,5 +12,6 @@
 	"compileType": "miniprogram",
 	"simulatorType": "wechat",
 	"simulatorPluginLibVersion": {},
+	"libVersion": "2.8.2",
 	"condition": {}
 }
