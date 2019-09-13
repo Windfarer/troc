@@ -1,10 +1,11 @@
 import Taro, { Component, Config } from '@tarojs/taro'
-import { View } from '@tarojs/components'
+import { View, ScrollView } from '@tarojs/components'
 import { AtList, AtListItem } from "taro-ui"
 
 import api from '../../services/api'
 
 import './species.scss'
+import { getNextId } from 'mobx/lib/utils/utils';
 export default class SpeciesList extends Component {
     config: Config = {
         navigationBarTitleText: '物种列表'
@@ -13,28 +14,46 @@ export default class SpeciesList extends Component {
         super(...arguments)
         this.state = {
             loading: true,
-            speciesList: []
+            speciesList: [],
+            page: 1,
+            next: true,
         }
     }
     handleChange() {
 
     }
-    getSpeciesList() {
+    loadSpeciesList() {
+        console.info("load")
         this.setState({
             loading: true
         })
-        api.get("/species/").then((res) => {
+        const { speciesList, next, page } = this.state
+        if (!next) {
+            return
+        }
+        const params = { page: page }
+        api.get("/species/", params).then((res) => {
+            let next = false
+            if (res.data.next) {
+                next = true
+            }
+            console.log(next)
             this.setState({
                 loading: false,
-                speciesList: res.data.results
+                speciesList: speciesList.concat(res.data.results),
+                page: page + 1,
+                next: next
             })
         })
     }
-
-    componentDidMount() {
-        this.getSpeciesList()
+    onScrollToLower() {
+        console.info("scroll")
+        this.loadSpeciesList()
     }
 
+    componentDidMount() {
+        this.loadSpeciesList()
+    }
     render() {
         const { speciesList } = this.state
         const list = speciesList.map((item) => (
@@ -45,11 +64,17 @@ export default class SpeciesList extends Component {
             />
         ))
         return (
-            <View className='index'>
+            <ScrollView
+                enableBackToTop
+                className='speciesList'
+                scrollY
+                scrollWithAnimation
+                onScrollToLower={this.onScrollToLower}>
                 <AtList>
                     {list}
                 </AtList>
-            </View>
+            </ScrollView>
+
         )
     }
 }
