@@ -326,5 +326,7 @@ dmypy.json
 
 # End of https://www.gitignore.io/api/node,macos,python,pycharm
 
-db.sqlite3
+*.sqlite3
 .vscode
+.env
+/wxapp
