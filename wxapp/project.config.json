@@ -1,43 +1,16 @@
 {
-	"description": "Project configuration file",
-	"packOptions": {
-		"ignore": []
-	},
+	"miniprogramRoot": "dist/",
+	"projectname": "wxapp",
+	"description": "",
+	"appid": "touristappid",
 	"setting": {
 		"urlCheck": true,
-		"es6": true,
-		"postcss": true,
-		"minified": true,
-		"newFeature": true,
-		"autoAudits": false,
-		"coverView": true
+		"es6": false,
+		"postcss": false,
+		"minified": false
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.0.4",
-	"appid": "wx232450aa81694635",
-	"projectname": "troc",
-	"debugOptions": {
-		"hidedInDevtools": []
-	},
-	"isGameTourist": false,
 	"simulatorType": "wechat",
 	"simulatorPluginLibVersion": {},
-	"condition": {
-		"search": {
-			"current": -1,
-			"list": []
-		},
-		"conversation": {
-			"current": -1,
-			"list": []
-		},
-		"game": {
-			"currentL": -1,
-			"list": []
-		},
-		"miniprogram": {
-			"current": -1,
-			"list": []
-		}
-	}
+	"condition": {}
 }
