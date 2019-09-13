@@ -4,7 +4,9 @@ module.exports = {
   env: {
     NODE_ENV: '"production"'
   },
-  defineConstants: {},
+  defineConstants: {
+    BASE_URL: '"https://troc.farer.org"'
+  },
   weapp: {},
   h5: {
     /**

@@ -20,4 +20,4 @@ CMD ["gunicorn", "-k", "gevent", \
      "--access-logfile", "-", \
      "--error-logfile", "-", \
      "-b","0.0.0.0:5000", \
-     "project.wsgi:application"]
+     "troc.wsgi:application"]

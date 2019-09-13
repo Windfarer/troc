@@ -30,7 +30,7 @@ SECRET_KEY = env("SECRET_KEY")
 
 DEBUG = env("DEBUG")
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["troc.itmg.cc"]
 
 
 # Application definition
