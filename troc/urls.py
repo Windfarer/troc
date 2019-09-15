@@ -16,14 +16,19 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import include, path
 from rest_framework import routers
+from rest_framework_simplejwt.views import TokenRefreshView
 
 from .apps.species import views as species_views
+from .apps.user import views as user_views
 
 router = routers.DefaultRouter()
 router.register('species', species_views.SpeciesViewSet)
 
 urlpatterns = [
     path('', include(router.urls)),
-    path('accounts/', include('allauth.urls')),
     path('admin/', admin.site.urls),
+
+    path('auth/', user_views.AuthView.as_view(), name="auth"),
+    path('api/token/', user_views.WxUserTokenObtainPairView.as_view(), name='token_obtain_pair'),
+    path('api/token/refresh/', TokenRefreshView.as_view(), name='token_refresh'),
 ]

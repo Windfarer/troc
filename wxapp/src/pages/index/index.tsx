@@ -1,6 +1,7 @@
 import Taro, { Component, Config } from '@tarojs/taro'
 import { View } from '@tarojs/components'
 import { AtForm, AtInput, AtButton } from 'taro-ui'
+import auth from '../../services/auth'
 
 import './index.scss'
 export default class Index extends Component {
@@ -13,30 +14,15 @@ export default class Index extends Component {
       value: ''
     }
   }
-  handleChange(value) {
-    this.setState({
-      value
-    })
-  }
-  onSubmit(event) {
-    console.log(event)
-  }
-  onReset(event) {
-    console.log(event)
+  onClick() {
+    console.log('hey!')
+    auth.login()
   }
 
   render() {
     return (
       <View className='index'>
-        <AtForm onSubmit={this.onSubmit.bind(this)}>
-          <AtInput
-            name='value1'
-            type='text'
-            placeholder='吃啥'
-            onChange={this.handleChange.bind(this)}
-          />
-          <AtButton formType='submit'>提交</AtButton>
-        </AtForm>
+        <AtButton formType='submit' onClick={this.onClick}>提交</AtButton>
       </View>
     )
   }

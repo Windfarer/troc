@@ -31,8 +31,7 @@ export default class SpeciesList extends Component {
         if (!next) {
             return
         }
-        const params = { page: page }
-        api.get("/species/", params).then((res) => {
+        api.getSpeciesList(page).then((res) => {
             let next = false
             if (res.data.next) {
                 next = true

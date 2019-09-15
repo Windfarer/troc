@@ -16,7 +16,7 @@ gunicorn = "*"
 gevent = "*"
 python-weixin = "*"
 django-environ = "*"
-django-allauth = "*"
+djangorestframework-simplejwt = "*"
 
 [requires]
 python_version = "3.7"

@@ -32,6 +32,8 @@ DEBUG = env("DEBUG")
 
 ALLOWED_HOSTS = ["troc.itmg.cc"]
 
+if DEBUG:
+    ALLOWED_HOSTS.append("*")
 
 # Application definition
 
@@ -45,16 +47,9 @@ INSTALLED_APPS = [
     'django.contrib.sites',
     'rest_framework',
 
-    'allauth',
-    'allauth.account',
-    'allauth.socialaccount',
-    'allauth.socialaccount.providers.weixin',
-
     'troc.apps.species',
+    'troc.apps.user',
 ]
-
-SITE_ID = 1
-
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
@@ -112,13 +107,11 @@ AUTH_PASSWORD_VALIDATORS = [
 
 
 AUTHENTICATION_BACKENDS = (
-    # Needed to login by username in Django admin, regardless of `allauth`
     'django.contrib.auth.backends.ModelBackend',
-
-    # `allauth` specific authentication methods, such as login by e-mail
-    'allauth.account.auth_backends.AuthenticationBackend',
-
 )
+
+AUTH_USER_MODEL = "user.WxAppUser" 
+
 
 
 # Internationalization
@@ -153,6 +146,9 @@ REST_FRAMEWORK = {
     'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
     'DEFAULT_PERMISSION_CLASSES': (
         'rest_framework.permissions.IsAuthenticatedOrReadOnly',
+    ),
+    'DEFAULT_AUTHENTICATION_CLASSES': (
+        'rest_framework_simplejwt.authentication.JWTAuthentication',
     ),
     'DEFAULT_RENDERER_CLASSES': DEFAULT_RENDERER_CLASSES,
     'PAGE_SIZE': 20
