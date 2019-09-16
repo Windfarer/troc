@@ -1,4 +1,6 @@
 import Taro, { login } from '@tarojs/taro'
+import client from './client';
+import api from './api';
 
 export default {
     checkAuth() {
@@ -17,13 +19,7 @@ export default {
             success: function (res) {
                 if (res.code) {
                     console.log('get code ' + res.code)
-                    // //发起网络请求
-                    // Taro.request({
-                    //   url: 'https://test.com/onLogin',
-                    //   data: {
-                    //     code: res.code
-                    //   }
-                    // })
+                    api.auth(res.code)
                 } else {
                     console.log('登录失败！' + res.errMsg)
                 }
