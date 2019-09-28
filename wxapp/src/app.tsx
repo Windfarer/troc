@@ -1,6 +1,6 @@
 import Taro, { Component, Config } from '@tarojs/taro'
 import { Provider } from '@tarojs/mobx'
-import Index from './pages/index'
+import Index from './pages/me/me'
 
 import counterStore from './store/counter'
 
@@ -27,15 +27,33 @@ class App extends Component {
    */
   config: Config = {
     pages: [
-      'pages/index/index',
       'pages/species/species',
+      'pages/me/me',
+      'pages/record/record'
     ],
     window: {
       backgroundTextStyle: 'light',
       navigationBarBackgroundColor: '#fff',
       navigationBarTitleText: 'WeChat',
       navigationBarTextStyle: 'black'
+    },
+    tabBar: {
+      list: [
+        {
+          pagePath: "pages/record/record",
+          text: "打卡"
+        },
+        {
+          pagePath: "pages/species/species",
+          text: "物种"
+        },
+        {
+          pagePath: "pages/me/me",
+          text: "我的"
+        },
+      ]
     }
+
   }
 
   componentDidMount() { }

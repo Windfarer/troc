@@ -158,3 +158,5 @@ WEIXIN = {
     'APP_ID': env("WX_APP_ID"),
     'APP_SECRET': env("WX_APP_SECRET"),
 }
+
+SITE_ID = 1
