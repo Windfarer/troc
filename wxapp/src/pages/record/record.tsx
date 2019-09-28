@@ -1,14 +1,14 @@
 import Taro, { Component, Config } from '@tarojs/taro'
 import { View, ScrollView } from '@tarojs/components'
-import { AtList, AtListItem } from "taro-ui"
+import { AtList, AtListItem, AtCalendar } from "taro-ui"
 
 import api from '../../services/api'
 
-import './species.scss'
+import './record.scss'
 import { getNextId } from 'mobx/lib/utils/utils';
 export default class SpeciesList extends Component {
     config: Config = {
-        navigationBarTitleText: '物种列表'
+        // navigationBarTitleText: '物种列表'
     }
     constructor() {
         super(...arguments)
@@ -69,6 +69,7 @@ export default class SpeciesList extends Component {
                 scrollY
                 scrollWithAnimation
                 onScrollToLower={this.onScrollToLower}>
+                <AtCalendar />
                 <AtList>
                     {list}
                 </AtList>

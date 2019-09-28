@@ -3,10 +3,10 @@ import { View } from '@tarojs/components'
 import { AtForm, AtInput, AtButton } from 'taro-ui'
 import auth from '../../services/auth'
 
-import './index.scss'
+import './me.scss'
 export default class Index extends Component {
   config: Config = {
-    navigationBarTitleText: '三界八纲'
+    // navigationBarTitleText: '三界八纲'
   }
   constructor() {
     super(...arguments)

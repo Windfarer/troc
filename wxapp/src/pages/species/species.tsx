@@ -8,7 +8,7 @@ import './species.scss'
 import { getNextId } from 'mobx/lib/utils/utils';
 export default class SpeciesList extends Component {
     config: Config = {
-        navigationBarTitleText: '物种列表'
+        // navigationBarTitleText: '物种列表'
     }
     constructor() {
         super(...arguments)
