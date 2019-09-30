@@ -28,6 +28,7 @@ class App extends Component {
   config: Config = {
     pages: [
       'pages/species/species',
+      'pages/speciesDetail/speciesDetail',
       'pages/me/me',
       'pages/record/record'
     ],

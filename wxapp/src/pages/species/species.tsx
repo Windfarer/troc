@@ -14,7 +14,9 @@ export default class SpeciesList extends Component {
         super(...arguments)
         this.state = {
             loading: true,
-            speciesList: [],
+            speciesList: [
+                { "id": 0, "name_cn": "" }
+            ],
             page: 1,
             next: true,
         }
@@ -45,6 +47,11 @@ export default class SpeciesList extends Component {
             })
         })
     }
+    toDetail(id) {
+        Taro.navigateTo({
+            url: '/pages/speciesDetail/speciesDetail?id=' + id
+        })
+    }
     onScrollToLower() {
         console.info("scroll")
         this.loadSpeciesList()
@@ -60,6 +67,7 @@ export default class SpeciesList extends Component {
                 key={item.id}
                 title={item.name_cn}
                 onSwitchChange={this.handleChange}
+                onClick={this.toDetail.bind(this, item.id)}
             />
         ))
         return (

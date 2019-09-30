@@ -22,7 +22,7 @@ export default class Index extends Component {
   render() {
     return (
       <View className='index'>
-        <AtButton formType='submit' onClick={this.onClick}>提交</AtButton>
+        <AtButton formType='submit' onClick={this.onClick}>登录</AtButton>
       </View>
     )
   }

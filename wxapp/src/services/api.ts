@@ -6,6 +6,13 @@ export default {
         const params = { page: page }
         return client.get("/species/", params)
     },
+    getSpeciesDetail(id) {
+        return client.get("/species/" + id + "/")
+    },
+    getRecordList(page) {
+        const params = { page: page }
+        return client.get("/species/", params)
+    },
     auth(code) {
         const params = { code: code }
         return client.post("/auth/", params)
