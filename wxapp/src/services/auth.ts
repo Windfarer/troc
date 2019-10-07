@@ -1,5 +1,4 @@
 import Taro, { login } from '@tarojs/taro'
-import client from './client';
 import api from './api';
 
 export default {

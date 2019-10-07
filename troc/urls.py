@@ -24,7 +24,7 @@ from .apps.user import views as user_views
 
 router = routers.DefaultRouter()
 router.register('species', species_views.SpeciesViewSet, base_name="species")
-router.register('record', record_views.RecordViewSet)
+router.register('record', record_views.RecordViewSet, base_name="record")
 
 urlpatterns = [
     path('', include(router.urls)),

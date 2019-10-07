@@ -1,5 +1,4 @@
 import client from "./client"
-import auth from "./auth";
 
 export default {
     getSpeciesList(page, query) {
@@ -12,7 +11,7 @@ export default {
     },
     getRecordList(page) {
         const params = { page: page }
-        return client.get("/species/", params)
+        return client.get("/records/", params)
     },
     createRecord(speciesId) {
         const data = { species: speciesId }

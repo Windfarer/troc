@@ -5,7 +5,7 @@ import { AtList, AtListItem, AtCalendar } from "taro-ui"
 import api from '../../services/api'
 
 import './record.scss'
-import { getNextId } from 'mobx/lib/utils/utils';
+
 export default class SpeciesList extends Component {
     config: Config = {
         // navigationBarTitleText: '物种列表'
@@ -14,7 +14,7 @@ export default class SpeciesList extends Component {
         super(...arguments)
         this.state = {
             loading: true,
-            speciesList: [],
+            list: [],
             page: 1,
             next: true,
         }
@@ -27,11 +27,11 @@ export default class SpeciesList extends Component {
         this.setState({
             loading: true
         })
-        const { speciesList, next, page } = this.state
+        const { list, next, page } = this.state
         if (!next) {
             return
         }
-        api.getSpeciesList(page).then((res) => {
+        api.getRecordList(page).then((res) => {
             let next = false
             if (res.data.next) {
                 next = true
@@ -39,7 +39,7 @@ export default class SpeciesList extends Component {
             console.log(next)
             this.setState({
                 loading: false,
-                speciesList: speciesList.concat(res.data.results),
+                speciesList: list.concat(res.data.results),
                 page: page + 1,
                 next: next
             })
@@ -54,8 +54,8 @@ export default class SpeciesList extends Component {
         this.loadSpeciesList()
     }
     render() {
-        const { speciesList } = this.state
-        const list = speciesList.map((item) => (
+        const { list } = this.state
+        const listItems = list.map((item) => (
             <AtListItem
                 key={item.id}
                 title={item.name_cn}
@@ -65,13 +65,12 @@ export default class SpeciesList extends Component {
         return (
             <ScrollView
                 enableBackToTop
-                className='speciesList'
                 scrollY
                 scrollWithAnimation
                 onScrollToLower={this.onScrollToLower}>
                 <AtCalendar />
                 <AtList>
-                    {list}
+                    {listItems}
                 </AtList>
             </ScrollView>
 
