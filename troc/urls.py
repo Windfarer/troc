@@ -19,10 +19,12 @@ from rest_framework import routers
 from rest_framework_simplejwt.views import TokenRefreshView
 
 from .apps.species import views as species_views
+from .apps.record import views as record_views
 from .apps.user import views as user_views
 
 router = routers.DefaultRouter()
 router.register('species', species_views.SpeciesViewSet)
+router.register('record', record_views.RecordViewSet)
 
 urlpatterns = [
     path('', include(router.urls)),
