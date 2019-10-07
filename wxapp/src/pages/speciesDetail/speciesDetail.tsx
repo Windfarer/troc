@@ -1,9 +1,10 @@
 import Taro, { Component, Config } from '@tarojs/taro'
 import { View, ScrollView } from '@tarojs/components'
-import { AtList, AtListItem } from "taro-ui"
+import { AtList, AtListItem, AtFab } from "taro-ui"
 
 import api from '../../services/api'
 
+import './speciesDetail.scss'
 export default class SpeciesList extends Component {
     constructor() {
         super(...arguments)
@@ -53,6 +54,11 @@ export default class SpeciesList extends Component {
             console.log(res.data)
         })
     }
+    onFabClick() {
+        console.log("eat this today")
+        const id = this.$router.params.id
+        api.createRecord(id)
+    }
     componentWillMount() {
         const id = this.$router.params.id
         this.getSpeciesDetail(id)
@@ -61,6 +67,11 @@ export default class SpeciesList extends Component {
         const { speciesObj } = this.state
         return (
             <ScrollView>
+                <View className='fab'>
+                    <AtFab onClick={this.onFabClick.bind(this)}>
+                        <Text className='at-fab__icon at-icon at-icon-menu'></Text>
+                    </AtFab>
+                </View>
                 < AtList hasBorder={false}>
                     <AtListItem title='名称' note={speciesObj.name_cn} />
                     <AtListItem title='英文名' note={speciesObj.name_en} />
