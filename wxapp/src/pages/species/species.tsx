@@ -1,6 +1,6 @@
 import Taro, { Component, Config } from '@tarojs/taro'
 import { View, ScrollView } from '@tarojs/components'
-import { AtList, AtListItem } from "taro-ui"
+import { AtList, AtListItem, AtSearchBar } from "taro-ui"
 
 import api from '../../services/api'
 
@@ -14,11 +14,10 @@ export default class SpeciesList extends Component {
         super(...arguments)
         this.state = {
             loading: true,
-            speciesList: [
-                { "id": 0, "name_cn": "" }
-            ],
+            speciesList: [],
             page: 1,
             next: true,
+            query: "",
         }
     }
     handleChange() {
@@ -29,11 +28,11 @@ export default class SpeciesList extends Component {
         this.setState({
             loading: true
         })
-        const { speciesList, next, page } = this.state
+        const { speciesList, next, page, query } = this.state
         if (!next) {
             return
         }
-        api.getSpeciesList(page).then((res) => {
+        api.getSpeciesList(page, query).then((res) => {
             let next = false
             if (res.data.next) {
                 next = true
@@ -56,12 +55,27 @@ export default class SpeciesList extends Component {
         console.info("scroll")
         this.loadSpeciesList()
     }
+    onSearchChange(value) {
+        console.info("search")
+        this.setState({
+            query: value
+        })
+    }
+    onSearchClick() {
+        this.setState({
+            speciesList: [],
+            next: true,
+            page: 1,
+        })
+        console.log(this.state)
+        this.loadSpeciesList()
+    }
 
     componentDidMount() {
         this.loadSpeciesList()
     }
     render() {
-        const { speciesList } = this.state
+        const { speciesList, query } = this.state
         const list = speciesList.map((item) => (
             <AtListItem
                 key={item.id}
@@ -77,6 +91,11 @@ export default class SpeciesList extends Component {
                 scrollY
                 scrollWithAnimation
                 onScrollToLower={this.onScrollToLower}>
+                <AtSearchBar
+                    value={query}
+                    onChange={this.onSearchChange.bind(this)}
+                    onActionClick={this.onSearchClick.bind(this)}
+                />
                 <AtList>
                     {list}
                 </AtList>

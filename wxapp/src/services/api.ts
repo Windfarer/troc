@@ -2,8 +2,9 @@ import client from "./client"
 import auth from "./auth";
 
 export default {
-    getSpeciesList(page) {
-        const params = { page: page }
+    getSpeciesList(page, query) {
+        const params = { page: page, query: query }
+        console.log(params)
         return client.get("/species/", params)
     },
     getSpeciesDetail(id) {
