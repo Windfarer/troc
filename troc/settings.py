@@ -49,6 +49,7 @@ INSTALLED_APPS = [
 
     'troc.apps.species',
     'troc.apps.user',
+    'troc.apps.record',
 ]
 
 MIDDLEWARE = [

@@ -20,7 +20,7 @@ def load_data(file_path):
             x.phylum_cn = i["門"]
             x.phylum = i["門-latin"]
             x.subphylum_cn = i["亞門"]
-            x.subphylum = i["-latin"]
+            x.subphylum = i["亞門-latin"]
             x.clazz_cn = i["綱"]
             x.clazz = i["綱-latin"]
             x.subclass_cn = i["亞綱"]

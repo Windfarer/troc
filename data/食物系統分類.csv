@@ -1,4 +1,4 @@
-中,英文,日文,域,域-latin,界,界-latin,門,門-latin,亞門,-latin,綱,綱-latin,亞綱,亞綱-latin,目,目-latin,科,科-latin,亞科,亞科-latin,屬,屬-latin,種,種-latin
+中,英文,日文,域,域-latin,界,界-latin,門,門-latin,亞門,亞門-latin,綱,綱-latin,亞綱,亞綱-latin,目,目-latin,科,科-latin,亞科,亞科-latin,屬,屬-latin,種,種-latin
 雙歧桿菌,,,細菌域,Bacteria,,,放線菌門,Actinobacteria,放線菌綱,Actinobacteria,,,,,雙歧桿菌目,Bifidobacteriales,雙歧桿菌科,Bifidobacteriaceae,,,雙歧桿菌屬,Bifidobacterium,,
 嗜酸乳桿菌,,,細菌域,Bacteria,,,厚壁菌門,Firmicutes,芽孢桿菌綱,Bacilli,,,,,乳桿菌目,Lactobacillales,乳桿菌科,Lactobacillaceae,,,乳桿菌屬,Lactobacillus,嗜酸乳桿菌,Lactobacillus acidophilus
 乾酪乳桿菌,,,細菌域,Bacteria,,,厚壁菌門,Firmicutes,芽孢桿菌綱,Bacilli,,,,,乳桿菌目,Lactobacillales,乳桿菌科,Lactobacillaceae,,,乳桿菌屬,Lactobacillus,乾酪乳桿菌,Lactobacillus casei
@@ -395,8 +395,6 @@
 滸苔/苔條/苔菜,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,綠藻門,Chlorophyta,,,石蒓綱,Ulvophyceae,,,石蒓目,Ulvales,石蒓科,Ulvaceae,,,石蒓屬,Ulva,,
 紫菜/海苔,,,眞核域,Eukaryota,,,紅藻門,Rhodophyta,,,紅毛菜綱,Bangiophyceae,,,紅毛菜目,Bangiales,紅毛菜科,Bangiaceae,,,,,,
 石花菜,,,眞核域,Eukaryota,,,紅藻門,Rhodophyta,,,眞紅藻綱,Florideophyceae,眞紅藻亞綱,Rhodymeniophycidae,石花菜目,Gelidiales,石花菜科,Gelidiaceae,,,石花菜屬,Gelidium,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-待喫物種：,,,,,,,,,,,,,,,,,,,,,,,,
 香椿,,,,,,,,,,,,,,,,,,,,,,,,
 槐花,,,,,,,,,,,,,,,,,,,,,,,,
 榆錢,,,,,,,,,,,,,,,,,,,,,,,,
@@ -434,9 +432,6 @@
 紅鼓魚,,,,,,,,,,,,,,,,,,,,,,,,
 涼薯/沙葛,,,,,,,,,,,,,,,,,,,,,,,,
 牛嬭果,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-貼過但發現認錯的：,,,,,,,,,,,,,,,,,,,,,,,,
 澳洲肺魚,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,,,肺魚亞綱,Dipnoi,角齒魚目,Ceratodontiformes,澳洲肺魚科,Neoceratodontidae,,,澳洲肺魚屬,Neoceratodus,昆士蘭肺魚,Neoceratodus forsteri
 香芋,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,薯蕷目,Dioscoreales,薯蕷科,Dioscoreaceae,,,薯蕷屬,Dioscorea,蔘薯,Dioscorea alata
 油魚/龍鱈魚/異鱗蛇鯖,"escolar, white tuna",,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鱸形類,Percomorphaceae,鯖形目,Scombriformes,蛇鯖科,Gempylidae,,,異鱗蛇鯖屬,Lepidocybium,異鱗蛇鯖,Lepidocybium flavobrunneum
