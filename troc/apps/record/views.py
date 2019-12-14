@@ -6,7 +6,8 @@ from ..species.models import Species
 from rest_framework_simplejwt.authentication import JWTTokenUserAuthentication
 from rest_framework.permissions import IsAuthenticated, AllowAny
 from rest_framework.exceptions import NotFound
-# Create your views here.
+
+
 class RecordViewSet(viewsets.ModelViewSet):
     authentication_classes = [JWTTokenUserAuthentication]
     permission_classes = [IsAuthenticated]

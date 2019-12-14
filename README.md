@@ -5,8 +5,7 @@ https://zhuanlan.zhihu.com/p/55765949
 ## Server
 ### init
 ```
-pipenv shell
-
+pip install -r requirements.txt
 python manage.py migrate
 ```
 
@@ -25,6 +24,7 @@ python manage.py runserver
 ## App
 ### init
 ```
+yarn global add @tarojs/cli
 yarn install
 ```
 

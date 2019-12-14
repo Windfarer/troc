@@ -5,7 +5,7 @@ module.exports = {
     NODE_ENV: '"production"'
   },
   defineConstants: {
-    BASE_URL: '"https://troc.itmg.cc"'
+    BASE_URL: 'https://troc.itmg.cc'
   },
   weapp: {},
   h5: {

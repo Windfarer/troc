@@ -1,17 +1,42 @@
-from django.shortcuts import render
 from rest_framework import viewsets
+from rest_framework import filters
 
 from .models import Species
 from .serializers import SpeciesSerializer
 
-# Create your views here.
 
 class SpeciesViewSet(viewsets.ReadOnlyModelViewSet):
+    queryset = Species.objects.all().order_by('-updated_at')
     serializer_class = SpeciesSerializer
-
-    def get_queryset(self):
-        queryset = Species.objects.all().order_by('-updated_at')
-        query = self.request.query_params.get('query', None)
-        if query is not None:
-            queryset = queryset.filter(name_cn__contains=query)
-        return queryset
+    filter_backends = [filters.SearchFilter]
+    search_fields = [
+        "domain",
+        "domain_cn",
+        "kingdom",
+        "kingdom_cn",
+        "phylum",
+        "phylum_cn",
+        "subphylum",
+        "subphylum_cn",
+        "clazz",
+        "clazz_cn",
+        "subclass",
+        "subclass_cn",
+        "order",
+        "order_cn",
+        "family",
+        "family_cn",
+        "subfamily",
+        "subfamily_cn",
+        "genus",
+        "genus_cn",
+        "species",
+        "species_cn",
+        "name_cn",
+        "name_en",
+        "name_jp",
+        "origin",
+        "habitats",
+        "part",
+        "type",
+    ]
