@@ -3,12 +3,19 @@ from rest_framework import filters
 
 from .models import Species
 from .serializers import SpeciesSerializer
+from .cc import s2t
+
+
+class ChineseSearchFilter(filters.SearchFilter):
+    def get_search_terms(self, request):
+        params = super().get_search_terms(request)
+        return [s2t(x) for x in params]
 
 
 class SpeciesViewSet(viewsets.ReadOnlyModelViewSet):
     queryset = Species.objects.all().order_by('-updated_at')
     serializer_class = SpeciesSerializer
-    filter_backends = [filters.SearchFilter]
+    filter_backends = [ChineseSearchFilter]
     search_fields = [
         "domain",
         "domain_cn",
