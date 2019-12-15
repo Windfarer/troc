@@ -2,7 +2,7 @@ import Taro, { Component, Config } from '@tarojs/taro'
 import { Provider } from '@tarojs/mobx'
 import Index from './pages/me/me'
 
-import counterStore from './store/counter'
+import authStore from './store/auth'
 
 import './app.scss'
 
@@ -13,7 +13,7 @@ import './app.scss'
 // }
 
 const store = {
-  counterStore
+  authStore
 }
 
 class App extends Component {
@@ -57,7 +57,8 @@ class App extends Component {
 
   }
 
-  componentDidMount() { }
+  componentDidMount() {
+  }
 
   componentDidShow() { }
 
