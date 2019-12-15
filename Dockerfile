@@ -5,17 +5,16 @@ ENV PYTHONUNBUFFERED '0'
 
 WORKDIR /app
 
-RUN set -ex && pip install pipenv --upgrade -i https://mirrors.ustc.edu.cn/pypi/web/simple
-
 COPY requirements.txt requirements.txt
 
-RUN set -ex && pip install -r requirements.txt
+RUN set -ex && pip install -r requirements.txt -i https://mirrors.ustc.edu.cn/pypi/web/simple
 
 COPY . /app
 
 EXPOSE 5000
 
-CMD ["gunicorn", "-k", "gevent", \
+CMD ["python", "manage.py", "collectstatic", "--noinput", "&&", \
+     "gunicorn", "-k", "gevent", \
      "--max-requests", "3000", \
      "--access-logfile", "-", \
      "--error-logfile", "-", \

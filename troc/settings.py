@@ -159,5 +159,5 @@ WEIXIN = {
     'APP_ID': env("WX_APP_ID"),
     'APP_SECRET': env("WX_APP_SECRET"),
 }
-
+STATIC_ROOT = env("STATIC_ROOT", default="/data/static/")
 SITE_ID = 1

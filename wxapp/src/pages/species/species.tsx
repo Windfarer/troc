@@ -101,6 +101,7 @@ export default class SpeciesList extends Component {
           value={query}
           onChange={this.onSearchChange.bind(this)}
           onActionClick={this.onSearchClick.bind(this)}
+          fixed
         />
         <AtList>
           {list}

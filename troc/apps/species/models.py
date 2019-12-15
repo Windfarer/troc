@@ -4,42 +4,42 @@ from django.utils import timezone
 
 # Create your models here.
 class Species(models.Model):
-    domain = models.CharField(max_length=200, null=True)
-    domain_cn = models.CharField(max_length=200, null=True)
+    domain = models.CharField(max_length=200, null=True, verbose_name="域")
+    domain_cn = models.CharField(max_length=200, null=True, verbose_name="域-中文")
 
-    kingdom = models.CharField(max_length=200, null=True)
-    kingdom_cn = models.CharField(max_length=200, null=True)
+    kingdom = models.CharField(max_length=200, null=True, verbose_name="界")
+    kingdom_cn = models.CharField(max_length=200, null=True, verbose_name="界-中文")
 
-    phylum = models.CharField(max_length=200, null=True)
-    phylum_cn = models.CharField(max_length=200, null=True)
+    phylum = models.CharField(max_length=200, null=True, verbose_name="门")
+    phylum_cn = models.CharField(max_length=200, null=True, verbose_name="门-中文")
 
-    subphylum = models.CharField(max_length=200, null=True)
-    subphylum_cn = models.CharField(max_length=200, null=True)
+    subphylum = models.CharField(max_length=200, null=True, verbose_name="亚门")
+    subphylum_cn = models.CharField(max_length=200, null=True, verbose_name="亚门-中文")
 
-    clazz = models.CharField(max_length=200, null=True)
-    clazz_cn = models.CharField(max_length=200, null=True)
+    clazz = models.CharField(max_length=200, null=True, verbose_name="纲")
+    clazz_cn = models.CharField(max_length=200, null=True, verbose_name="纲-中文")
 
-    subclass = models.CharField(max_length=200, null=True)
-    subclass_cn = models.CharField(max_length=200, null=True)
+    subclass = models.CharField(max_length=200, null=True, verbose_name="亚纲")
+    subclass_cn = models.CharField(max_length=200, null=True, verbose_name="亚纲-中文")
 
-    order = models.CharField(max_length=200, null=True)
-    order_cn = models.CharField(max_length=200, null=True)
+    order = models.CharField(max_length=200, null=True, verbose_name="目")
+    order_cn = models.CharField(max_length=200, null=True, verbose_name="目-中文")
 
-    family = models.CharField(max_length=200, null=True)
-    family_cn = models.CharField(max_length=200, null=True)
+    family = models.CharField(max_length=200, null=True, verbose_name="科")
+    family_cn = models.CharField(max_length=200, null=True, verbose_name="科-中文")
 
-    subfamily = models.CharField(max_length=200, null=True)
-    subfamily_cn = models.CharField(max_length=200, null=True)
+    subfamily = models.CharField(max_length=200, null=True, verbose_name="亚科")
+    subfamily_cn = models.CharField(max_length=200, null=True, verbose_name="亚科-中文")
 
-    genus = models.CharField(max_length=200, null=True)
-    genus_cn = models.CharField(max_length=200, null=True)
+    genus = models.CharField(max_length=200, null=True, verbose_name="属")
+    genus_cn = models.CharField(max_length=200, null=True, verbose_name="属-中文")
 
-    species = models.CharField(max_length=200, null=True)
-    species_cn = models.CharField(max_length=200, null=True)
+    species = models.CharField(max_length=200, null=True, verbose_name="种")
+    species_cn = models.CharField(max_length=200, null=True, verbose_name="种-中文")
 
-    name_cn = models.CharField(max_length=200)
-    name_en = models.CharField(max_length=200, null=True)
-    name_jp = models.CharField(max_length=200, null=True)
+    name_cn = models.CharField(max_length=200, verbose_name="名称-中文")
+    name_en = models.CharField(max_length=200, null=True, verbose_name="名称-英文")
+    name_jp = models.CharField(max_length=200, null=True, verbose_name="名称-日文")
     origin = models.CharField(max_length=200, null=True)
     habitats = models.CharField(max_length=200, null=True)
     part = models.CharField(max_length=200, null=True)
