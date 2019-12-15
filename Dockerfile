@@ -13,10 +13,10 @@ COPY . /app
 
 EXPOSE 5000
 
-CMD ["python", "manage.py", "collectstatic", "--noinput", "&&", \
-     "gunicorn", "-k", "gevent", \
-     "--max-requests", "3000", \
-     "--access-logfile", "-", \
-     "--error-logfile", "-", \
-     "-b","0.0.0.0:5000", \
-     "troc.wsgi:application"]
+CMD ["sh","-c", "python manage.py collectstatic --noinput && \
+     gunicorn -k gevent  \
+     --max-requests 3000 \
+     --access-logfile - \
+     --error-logfile -  \
+     -b 0.0.0.0:5000  \
+     troc.wsgi:application"]
