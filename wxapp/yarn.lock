@@ -1072,7 +1072,7 @@
     swiper "4.4.2"
     weui "^1.1.2"
 
-"@tarojs/mini-runner@^2.0.0-beta.8":
+"@tarojs/mini-runner@2.0.0-beta.8":
   version "2.0.0-beta.8"
   resolved "https://registry.yarnpkg.com/@tarojs/mini-runner/-/mini-runner-2.0.0-beta.8.tgz#034a040244ea5a863e12e0e9e5fbde8eac129b0d"
   integrity sha512-fxdHy1wOSQtbD0Ifn54rYa6j7kxWQnSlQgcmQt3QiVrTEZnjaoGUIEy4gpBSidmfG1oI5Lh3m+89l/zuM7WOzQ==

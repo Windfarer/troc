@@ -3,7 +3,7 @@ import api from './api';
 
 export default {
   checkAuth() {
-    Taro.checkSession({
+    return Taro.checkSession({
       success: function () {
         console.log("session valid")
       },
@@ -14,19 +14,9 @@ export default {
     })
   },
   login() {
-    Taro.login({
-      success: function (res) {
-        if (res.code) {
-          console.log('get code ' + res.code)
-          return api.auth(res.code)
-        } else {
-          console.log('登录失败！' + res.errMsg)
-          return res
-        }
-      },
-      fail: function (res) {
-        console.log('登录失败！' + res.errMsg)
-        return res
+    return Taro.login().then((res) => {
+      if (res.code) {
+        return api.auth(res.code)
       }
     })
   }

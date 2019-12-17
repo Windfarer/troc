@@ -11,8 +11,8 @@ export default class SpeciesList extends Component {
     // navigationBarTitleText: '物种列表'
   }
 
-  constructor() {
-    super(...arguments)
+  constructor(props) {
+    super(props)
     this.state = {
       loading: true,
       speciesList: [],

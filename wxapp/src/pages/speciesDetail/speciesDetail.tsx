@@ -6,8 +6,8 @@ import api from '../../services/api'
 
 import './speciesDetail.scss'
 export default class SpeciesList extends Component {
-    constructor() {
-        super(...arguments)
+    constructor(props) {
+      super(props)
         this.state = {
             loading: false,
             speciesObj: {

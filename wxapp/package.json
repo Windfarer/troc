@@ -27,7 +27,7 @@
 	"license": "MIT",
 	"dependencies": {
 		"@tarojs/components": "2.0.0-beta.8",
-		"@tarojs/mini-runner": "^2.0.0-beta.8",
+		"@tarojs/mini-runner": "2.0.0-beta.8",
 		"@tarojs/mobx": "2.0.0-beta.8",
 		"@tarojs/mobx-h5": "2.0.0-beta.8",
 		"@tarojs/mobx-rn": "2.0.0-beta.8",

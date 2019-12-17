@@ -28,8 +28,6 @@ class AuthView(APIView):
             unionid=session_info.get("unionid"))
             user.save()
             print("user created")
-
-        
         token = get_tokens_for_user(user)
         print(token)        
         return Response(token)
