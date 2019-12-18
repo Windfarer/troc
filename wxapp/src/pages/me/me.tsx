@@ -22,25 +22,20 @@ export default class Index extends Component {
   }
 
   onClick() {
-    console.log(this.props)
+    const { authStore } = this.props
     auth.login().then((res) => {
       const token = res.data.access
+      authStore.updateToken(token)
       console.log(token)
     })
   }
 
-  profileSuccessCallback(res) {
-    console.log(res)
-  }
 
-  profileFail(res) {
-    console.log(res)
-  }
 
   render() {
     return (
       <View className='index'>
-        <AtButton formType='submit' onClick={this.onClick}>登录</AtButton>
+        <AtButton formType='submit' onClick={this.onClick.bind(this)}>登录</AtButton>
       </View>
     )
   }

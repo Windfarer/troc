@@ -7,6 +7,7 @@ class authStore {
   @action.bound
   updateToken(token) {
     this.token = token
+    console.log("token updated", this.token)
   }
 }
 export default new authStore()
