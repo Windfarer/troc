@@ -22,15 +22,7 @@ export default class Index extends Component {
   }
 
   onClick() {
-    const { authStore } = this.props
-    auth.login().then((res) => {
-      const token = res.data.access
-      authStore.updateToken(token)
-      console.log(token)
-    })
   }
-
-
 
   render() {
     return (

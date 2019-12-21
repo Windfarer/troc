@@ -5,6 +5,7 @@ import Index from './pages/me/me'
 import authStore from './store/auth'
 
 import './app.scss'
+import auth from "./services/auth";
 
 // 如果需要在 h5 环境中开启 React Devtools
 // 取消以下注释：
@@ -15,6 +16,7 @@ import './app.scss'
 const store = {
   authStore
 }
+
 
 class App extends Component {
 
@@ -58,6 +60,11 @@ class App extends Component {
   }
 
   componentDidMount() {
+    auth.login().then((res) => {
+      const token = res.data.access
+      store.authStore.updateToken(token)
+      console.log('login success')
+    })
   }
 
   componentDidShow() {

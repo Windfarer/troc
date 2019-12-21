@@ -1,9 +1,9 @@
 import Taro, {Component, Config} from '@tarojs/taro'
 import {View, ScrollView} from '@tarojs/components'
-import {AtList, AtListItem, AtSearchBar} from "taro-ui"
+import {AtList, AtListItem, AtSearchBar, AtGrid} from "taro-ui"
 
 import api from '../../services/api'
-
+import {SpeciesStatus} from '../../components/SpeciesStatus'
 import './species.scss'
 
 export default class SpeciesList extends Component {
@@ -97,11 +97,12 @@ export default class SpeciesList extends Component {
         scrollY
         scrollWithAnimation
         onScrollToLower={this.onScrollToLower}>
+        <SpeciesStatus selectedSpecies={this.state.speciesList}/>
         <AtSearchBar
           value={query}
           onChange={this.onSearchChange.bind(this)}
           onActionClick={this.onSearchClick.bind(this)}
-          fixed
+          // fixed
         />
         <AtList>
           {list}
