@@ -1,9 +1,11 @@
 import Taro, {Component, Config} from '@tarojs/taro'
-import {View, ScrollView} from '@tarojs/components'
-import {AtList, AtListItem, AtSearchBar, AtGrid} from "taro-ui"
+import {ScrollView} from '@tarojs/components'
+import {AtList, AtSearchBar, AtListItem} from "taro-ui"
 
 import api from '../../services/api'
 import {SpeciesStatus} from '../../components/SpeciesStatus'
+import {SpeciesItem} from '../../components/SpeciesItem'
+
 import './species.scss'
 
 export default class SpeciesList extends Component {

@@ -3,7 +3,7 @@ import {View, Text, Image} from '@tarojs/components'
 
 import './index.scss'
 
-export default class Index extends Component {
+export default class SpeciesStatus extends Component {
   static defaultProps = {
     selectedSpecies: [],
   }
@@ -16,19 +16,22 @@ export default class Index extends Component {
     }
   }
 
-  
 
   componentDidMount(): void {
-    console.log('来了老弟')
-    console.log('xxxxxx')
   }
 
   render() {
     return (
-      <View className=''>
-        <Text className=''>总数：{this.props.selectedSpecies.length}</Text>
-        <Text className=''>界：{this.state.kingdomCount}</Text>
-        <Text className=''>纲：{this.state.clazzCount}</Text>
+      <View className='at-row'>
+        <View className='at-col'>
+          总数：{this.props.selectedSpecies.length}
+        </View>
+        <View className='at-col'>
+          界：{this.state.kingdomCount}
+        </View>
+        <View className='at-col'>
+          纲：{this.state.clazzCount}
+        </View>
       </View>
     )
   }

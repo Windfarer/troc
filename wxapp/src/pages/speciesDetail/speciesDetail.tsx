@@ -77,16 +77,16 @@ export default class SpeciesList extends Component {
                     <AtListItem title='名称' note={speciesObj.name_cn} />
                     <AtListItem title='英文名' note={speciesObj.name_en} />
                     <AtListItem title='日文名' note={speciesObj.name_jp} />
-                    <AtListItem title='域' note={speciesObj.domain_cn + "|" + speciesObj.domain} />
-                    <AtListItem title='界' note={speciesObj.kingdom_cn + "|" + speciesObj.kingdom} />
-                    <AtListItem title='门' note={speciesObj.phylum_cn + "|" + speciesObj.phylum} />
-                    <AtListItem title='纲' note={speciesObj.clazz_cn + "|" + speciesObj.clazz} />
-                    <AtListItem title='亚纲' note={speciesObj.subclass_cn + "|" + speciesObj.subclass} />
-                    <AtListItem title='目' note={speciesObj.order_cn + "|" + speciesObj.order} />
-                    <AtListItem title='科' note={speciesObj.family_cn + "|" + speciesObj.family} />
-                    <AtListItem title='亚科' note={speciesObj.subfamily_cn + "|" + speciesObj.subfamily} />
-                    <AtListItem title='属' note={speciesObj.genus_cn + "|" + speciesObj.genus} />
-                    <AtListItem title='种' note={speciesObj.species_cn + "|" + speciesObj.species} />
+                    <AtListItem title='域' note={speciesObj.domain_cn + " " + speciesObj.domain} />
+                    <AtListItem title='界' note={speciesObj.kingdom_cn + " " + speciesObj.kingdom} />
+                    <AtListItem title='门' note={speciesObj.phylum_cn + " " + speciesObj.phylum} />
+                    <AtListItem title='纲' note={speciesObj.clazz_cn + " " + speciesObj.clazz} />
+                    <AtListItem title='亚纲' note={speciesObj.subclass_cn + " " + speciesObj.subclass} />
+                    <AtListItem title='目' note={speciesObj.order_cn + " " + speciesObj.order} />
+                    <AtListItem title='科' note={speciesObj.family_cn + " " + speciesObj.family} />
+                    <AtListItem title='亚科' note={speciesObj.subfamily_cn + " " + speciesObj.subfamily} />
+                    <AtListItem title='属' note={speciesObj.genus_cn + " " + speciesObj.genus} />
+                    <AtListItem title='种' note={speciesObj.species_cn + " " + speciesObj.species} />
                 </AtList >
             </ScrollView>
         )
