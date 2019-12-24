@@ -1,12 +1,12 @@
 import Taro, {Component, Config} from '@tarojs/taro'
 import {ScrollView} from '@tarojs/components'
-import {AtList, AtSearchBar, AtListItem} from "taro-ui"
+import {AtList, AtSearchBar} from "taro-ui"
 
 import api from '../../services/api'
 import {SpeciesStatus} from '../../components/SpeciesStatus'
 import {SpeciesItem} from '../../components/SpeciesItem'
 
-import './species.scss'
+// import './species.scss'
 
 export default class SpeciesList extends Component {
   config: Config = {
@@ -18,14 +18,11 @@ export default class SpeciesList extends Component {
     this.state = {
       loading: true,
       speciesList: [],
+      selected: [],
       page: 1,
       next: true,
       query: "",
     }
-  }
-
-  handleChange() {
-
   }
 
   loadSpeciesList() {
@@ -51,9 +48,14 @@ export default class SpeciesList extends Component {
   }
 
   toDetail(id) {
-    Taro.navigateTo({
+    console.log(id)
+    return Taro.navigateTo({
       url: '/pages/speciesDetail/speciesDetail?id=' + id
     })
+  }
+
+  selectItem(id) {
+    console.log("select", id)
   }
 
   onScrollToLower() {
@@ -68,6 +70,10 @@ export default class SpeciesList extends Component {
     this.setState({
       query: value
     })
+  }
+
+  scrollDebug(evt) {
+    console.log(evt)
   }
 
   onSearchClick() {
@@ -85,11 +91,11 @@ export default class SpeciesList extends Component {
   render() {
     const {speciesList, query} = this.state
     const list = speciesList.map((item) => (
-      <AtListItem
+      <SpeciesItem
         key={item.id}
         title={item.name_cn}
-        onSwitchChange={this.handleChange}
         onClick={this.toDetail.bind(this, item.id)}
+        onSelect={this.selectItem.bind(this, item.id)}
       />
     ))
     return (
@@ -98,6 +104,7 @@ export default class SpeciesList extends Component {
         className='speciesList'
         scrollY
         scrollWithAnimation
+        onScroll={this.scrollDebug}
         onScrollToLower={this.onScrollToLower}>
         <SpeciesStatus selectedSpecies={this.state.speciesList}/>
         <AtSearchBar
