@@ -3,6 +3,7 @@ import {inject, observer, Provider} from '@tarojs/mobx'
 import Index from './pages/me/me'
 
 import authStore from './store/auth'
+import bagStore from './store/bag'
 
 import './app.scss'
 import auth from "./services/auth";
@@ -14,7 +15,8 @@ import auth from "./services/auth";
 // }
 
 const store = {
-  authStore
+  authStore,
+  bagStore,
 }
 
 

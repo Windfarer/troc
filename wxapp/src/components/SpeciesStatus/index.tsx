@@ -2,35 +2,30 @@ import Taro, {Component} from '@tarojs/taro'
 import {View} from '@tarojs/components'
 
 import './index.scss'
+import {inject, observer} from "@tarojs/mobx";
 
+@inject('bagStore')
+@observer
 export default class SpeciesStatus extends Component {
-  static defaultProps = {
-    selectedSpecies: [],
-  }
-
   constructor(props) {
     super(props);
-    this.state = {
-      kingdomCount: 0,
-      clazzCount: 0,
-    }
   }
-
 
   componentDidMount(): void {
   }
 
   render() {
+    const { bagStore: { total, kingdomCount, clazzCount } } = this.props
     return (
       <View className='at-row'>
         <View className='at-col'>
-          总数：{this.props.selectedSpecies.length}
+          总数：{total}
         </View>
         <View className='at-col'>
-          界：{this.state.kingdomCount}
+          界：{kingdomCount}
         </View>
         <View className='at-col'>
-          纲：{this.state.clazzCount}
+          纲：{clazzCount}
         </View>
       </View>
     )

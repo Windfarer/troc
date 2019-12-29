@@ -18,7 +18,6 @@ export default class SpeciesList extends Component {
     this.state = {
       loading: true,
       speciesList: [],
-      selected: [],
       page: 1,
       next: true,
       query: "",
@@ -52,10 +51,6 @@ export default class SpeciesList extends Component {
     return Taro.navigateTo({
       url: '/pages/speciesDetail/speciesDetail?id=' + id
     })
-  }
-
-  selectItem(id) {
-    console.log("select", id)
   }
 
   onScrollToLower() {
@@ -93,9 +88,8 @@ export default class SpeciesList extends Component {
     const list = speciesList.map((item) => (
       <SpeciesItem
         key={item.id}
-        title={item.name_cn}
+        data={item}
         onClick={this.toDetail.bind(this, item.id)}
-        onSelect={this.selectItem.bind(this, item.id)}
       />
     ))
     return (
@@ -106,7 +100,7 @@ export default class SpeciesList extends Component {
         scrollWithAnimation
         onScroll={this.scrollDebug}
         onScrollToLower={this.onScrollToLower}>
-        <SpeciesStatus selectedSpecies={this.state.speciesList}/>
+        <SpeciesStatus selectedSpecies={this.state.selected}/>
         <AtSearchBar
           value={query}
           onChange={this.onSearchChange.bind(this)}
