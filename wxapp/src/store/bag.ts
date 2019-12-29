@@ -36,6 +36,13 @@ class bagStore {
     console.log('check selected', id, this.selectedSpecies.has(id))
     return this.selectedSpecies.has(id)
   }
+
+  @action.bound clear() {
+    this.selectedSpecies.clear()
+    this.total = 0
+    this.kingdomCount = 0
+    this.clazzCount = 0
+  }
 }
 
 export default new bagStore()

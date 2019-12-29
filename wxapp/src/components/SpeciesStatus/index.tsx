@@ -14,6 +14,11 @@ export default class SpeciesStatus extends Component {
   componentDidMount(): void {
   }
 
+  clearSpecies() {
+    const { bagStore: { clear } } = this.props
+    clear()
+  }
+
   render() {
     const { bagStore: { total, kingdomCount, clazzCount } } = this.props
     return (
@@ -27,6 +32,7 @@ export default class SpeciesStatus extends Component {
         <View className='at-col'>
           纲：{clazzCount}
         </View>
+        <View className='at-col at-col-1 at-icon at-icon-blocked' onClick={this.clearSpecies}></View>
       </View>
     )
   }
