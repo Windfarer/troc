@@ -7,8 +7,11 @@ from .serializers import WxUserTokenObtainPairSerializer
 from . import wechat
 from .models import WxAppUser
 from .jwt import get_tokens_for_user
+
+
 class WxUserTokenObtainPairView(TokenObtainPairView):
     serializer_class = WxUserTokenObtainPairSerializer
+
 
 class AuthView(APIView):
     authentication_classes = []

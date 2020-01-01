@@ -30,7 +30,7 @@ SECRET_KEY = env("SECRET_KEY")
 
 DEBUG = env("DEBUG")
 
-ALLOWED_HOSTS = ["troc.itmg.cc"]
+ALLOWED_HOSTS = ["troc.itmg.cc", "trocapp.cn", "api.trocapp.cn"]
 
 if DEBUG:
     ALLOWED_HOSTS.append("*")

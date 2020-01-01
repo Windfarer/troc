@@ -33,8 +33,8 @@ class App extends Component {
     pages: [
       'pages/species/species',
       'pages/speciesDetail/speciesDetail',
-      'pages/me/me',
-      'pages/record/record'
+      // 'pages/me/me',
+      // 'pages/record/record'
     ],
     window: {
       backgroundTextStyle: 'light',
@@ -42,22 +42,22 @@ class App extends Component {
       navigationBarTitleText: 'WeChat',
       navigationBarTextStyle: 'black'
     },
-    tabBar: {
-      list: [
-        {
-          pagePath: "pages/record/record",
-          text: "打卡"
-        },
-        {
-          pagePath: "pages/species/species",
-          text: "物种"
-        },
-        {
-          pagePath: "pages/me/me",
-          text: "我的"
-        },
-      ]
-    }
+    // tabBar: {
+    //   list: [
+    //     {
+    //       pagePath: "pages/record/record",
+    //       text: "打卡"
+    //     },
+    //     {
+    //       pagePath: "pages/species/species",
+    //       text: "物种"
+    //     },
+    //     {
+    //       pagePath: "pages/me/me",
+    //       text: "我的"
+    //     },
+    //   ]
+    // }
 
   }
 

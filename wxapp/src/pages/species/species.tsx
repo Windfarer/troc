@@ -1,12 +1,12 @@
 import Taro, {Component, Config} from '@tarojs/taro'
-import {ScrollView} from '@tarojs/components'
+import {ScrollView, View} from '@tarojs/components'
 import {AtList, AtSearchBar} from "taro-ui"
 
 import api from '../../services/api'
 import {SpeciesStatus} from '../../components/SpeciesStatus'
 import {SpeciesItem} from '../../components/SpeciesItem'
 
-// import './species.scss'
+import './species.scss'
 
 export default class SpeciesList extends Component {
   config: Config = {
@@ -93,25 +93,26 @@ export default class SpeciesList extends Component {
       />
     ))
     return (
-      <ScrollView
-        enableBackToTop
-        className='speciesList'
-        scrollY
-        scrollWithAnimation
-        onScroll={this.scrollDebug}
-        onScrollToLower={this.onScrollToLower}>
-        <SpeciesStatus selectedSpecies={this.state.selected}/>
-        <AtSearchBar
-          value={query}
-          onChange={this.onSearchChange.bind(this)}
-          onActionClick={this.onSearchClick.bind(this)}
-          // fixed
-        />
-        <AtList>
-          {list}
-        </AtList>
-      </ScrollView>
-
+      <View className='main'>
+        <View className='at-row'>
+          <View className='at-col'>
+            <SpeciesStatus selectedSpecies={this.state.selected} queryValue={query}
+                           onSearchChange={this.onSearchChange.bind(this)}
+                           onSearchClick={this.onSearchClick.bind(this)}/>
+          </View>
+        </View>
+        <ScrollView
+          className='species-list'
+          enableBackToTop
+          scrollY
+          scrollWithAnimation
+          onScroll={this.scrollDebug}
+          onScrollToLower={this.onScrollToLower}>
+          <AtList>
+            {list}
+          </AtList>
+        </ScrollView>
+      </View>
     )
   }
 }

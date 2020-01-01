@@ -68,11 +68,11 @@ export default class SpeciesList extends Component {
         const { speciesObj } = this.state
         return (
             <ScrollView>
-                <View className='fab'>
-                    <AtFab onClick={this.onFabClick.bind(this)}>
-                        <Text className='at-fab__icon at-icon at-icon-menu'></Text>
-                    </AtFab>
-                </View>
+                {/*<View className='fab'>*/}
+                    {/*<AtFab onClick={this.onFabClick.bind(this)}>*/}
+                        {/*<Text className='at-fab__icon at-icon at-icon-menu'></Text>*/}
+                    {/*</AtFab>*/}
+                {/*</View>*/}
                 < AtList hasBorder={false}>
                     <AtListItem title='名称' note={speciesObj.name_cn} />
                     <AtListItem title='英文名' note={speciesObj.name_en} />

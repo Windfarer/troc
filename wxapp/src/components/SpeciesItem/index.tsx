@@ -3,6 +3,7 @@ import {View} from '@tarojs/components'
 
 import './index.scss'
 import {inject, observer} from "@tarojs/mobx";
+import {AtIcon} from 'taro-ui'
 
 @inject('bagStore')
 @observer
@@ -19,21 +20,34 @@ export default class SpeciesItem extends Component {
   }
 
   selectSpecies() {
-    const { bagStore: { updateBySpecies } } = this.props
+    const {bagStore: {updateBySpecies}} = this.props
     updateBySpecies(this.props.data)
     this.setState({
       selected: !this.state.selected
     })
   }
+
   render() {
-    const { bagStore: { hasSelected} } = this.props
+    const {bagStore: {hasSelected}} = this.props
     const {data} = this.props
-    const {selected} = this.state
-    const selectIconClass = selected ? 'at-icon-subtract-circle' : 'at-icon-add-circle'
+    const note = data.kingdom_cn + (data.kingdom_cn && data.clazz_cn ? " | " : "") + data.clazz_cn
     return (
       <View className='species-item at-row at-row__justify--between'>
-        <View className='at-col' onClick={this.onClick}>{data.name_cn}</View>
-        <View className={`at-col at-col-1 at-icon ${selectIconClass}`} onClick={this.selectSpecies}></View>
+        <View className='at-col' onClick={this.onClick}>
+          <View className='at-row'>
+            <View className='at-col'>
+              {data.name_cn}
+            </View>
+          </View>
+          <View className='at-row species-item-note'>
+            <View className='at-col'>
+              {note ? note : "--"}
+            </View>
+          </View>
+        </View>
+        <View className='at-col at-col-2 select-btn' onClick={this.selectSpecies}>
+          <AtIcon value='add' size='24' color='#AAA'></AtIcon>
+        </View>
       </View>
     )
   }

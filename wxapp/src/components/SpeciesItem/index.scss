@@ -4,9 +4,17 @@
 @import "~taro-ui/dist/style/components/icon.scss";
 
 .species-item {
-  height: 100px;
+  padding: 0.7rem 0.6rem 0.7rem 0.8rem;
+  @include hairline-bottom-relative($left: $spacing-h-lg);
+  &-note {
+  color: $at-list-content-color;
+  font-size: $font-size-base;
+  line-height: $line-height-zh;
+}
 }
 
-.select_btn {
 
+
+.select-btn {
+  padding-top: 15px;
 }

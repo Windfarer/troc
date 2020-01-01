@@ -4,7 +4,7 @@ class bagStore {
   @observable selectedSpecies = new Map();
   @observable total = 0;
   @observable kingdomCount = 0;
-  @observable  clazzCount = 0;
+  @observable clazzCount = 0;
 
   @action.bound
   updateBySpecies(item) {
@@ -35,6 +35,10 @@ class bagStore {
   @action.bound hasSelected(id) {
     console.log('check selected', id, this.selectedSpecies.has(id))
     return this.selectedSpecies.has(id)
+  }
+
+  @action.bound remove(id) {
+    this.selectedSpecies.delete(id)
   }
 
   @action.bound clear() {
