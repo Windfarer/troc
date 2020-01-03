@@ -2,6 +2,9 @@ import csv
 
 from troc.apps.species.models import Species
 
+def clean_data():
+    Species.objects.all().delete()
+
 def load_data(file_path):
     with open(file_path) as f:
         reader = csv.DictReader(f)
@@ -10,6 +13,10 @@ def load_data(file_path):
             if not i["中"]:
                 continue
             x = Species()
+            try:
+                x.tax_id = int(i.get("tax_id"))
+            except ValueError:
+                pass
             x.name_cn = i["中"]
             x.name_en = i["英文"]
             x.name_jp = i["日文"]
@@ -35,9 +42,12 @@ def load_data(file_path):
             x.genus = i["屬-latin"]
             x.species_cn = i["種"]
             x.species = i["種-latin"]
+            x.origin = i.get("原產地")
+            x.habitats = i.get("生境")
+            x.part = i.get("食用部位")
+            x.type = i.get("食物種類")
             x.save()
 
-
-load_data("data/食物系統分類.csv")
+# load_data("data/species.csv")
 
 

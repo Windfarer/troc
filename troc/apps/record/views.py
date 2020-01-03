@@ -30,3 +30,4 @@ class RecordViewSet(viewsets.ModelViewSet):
             raise NotFound()
         record = Record(species=species, user=user)
         record.save()
+

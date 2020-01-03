@@ -14,6 +14,8 @@ python manage.py migrate
 python manage.py shell
 
 exec(open("scripts/load.py").read())
+clean_data()
+load_data("data/species.csv")
 ```
 
 ### run dev

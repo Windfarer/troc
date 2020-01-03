@@ -25,12 +25,14 @@ class AuthView(APIView):
         try:
             user = WxAppUser.objects.get(openid=session_info["openid"])
             print("user existed")
-        except WxAppUser.DoesNotExist: # create user
-            user = WxAppUser(openid=session_info["openid"], 
-            session_key=session_info["session_key"],
-            unionid=session_info.get("unionid"))
+        except WxAppUser.DoesNotExist:  # create user
+            user = WxAppUser(
+                username=session_info["openid"],
+                openid=session_info["openid"],
+                session_key=session_info["session_key"],
+                unionid=session_info.get("unionid"))
             user.save()
             print("user created")
         token = get_tokens_for_user(user)
-        print(token)        
+        print(token)
         return Response(token)

@@ -1,0 +1,474 @@
+tax_id,中,英文,日文,原產地,養殖/種植,生境,食用部位,食物種類,域,域-latin,界,界-latin,門,門-latin,亞門,亞門-latin,綱,綱-latin,亞綱,亞綱-latin,目,目-latin,科,科-latin,亞科,亞科-latin,屬,屬-latin,種,種-latin
+1678,雙歧桿菌,,,,,,,,細菌域,Bacteria,,,放線菌門,Actinobacteria,,,放線菌綱,Actinobacteria,,,雙歧桿菌目,Bifidobacteriales,雙歧桿菌科,Bifidobacteriaceae,,,雙歧桿菌屬,Bifidobacterium,,
+302911,乳雙歧桿菌,,,,,,,,細菌域,Bacteria,,,放線菌門,Actinobacteria,,,放線菌綱,Actinobacteria,,,雙歧桿菌目,Bifidobacteriales,雙歧桿菌科,Bifidobacteriaceae,,,雙歧桿菌屬,Bifidobacterium,動物雙歧桿菌,Bifidobacterium animalis
+1579,嗜酸乳桿菌,,,,,,,,細菌域,Bacteria,,,厚壁菌門,Firmicutes,,,芽孢桿菌綱,Bacilli,,,乳桿菌目,Lactobacillales,乳桿菌科,Lactobacillaceae,,,乳桿菌屬,Lactobacillus,嗜酸乳桿菌,Lactobacillus acidophilus
+1582,乾酪乳桿菌,,,,,,,,細菌域,Bacteria,,,厚壁菌門,Firmicutes,,,芽孢桿菌綱,Bacilli,,,乳桿菌目,Lactobacillales,乳桿菌科,Lactobacillaceae,,,乳桿菌屬,Lactobacillus,乾酪乳桿菌,Lactobacillus casei
+1584,保加利亞乳桿菌,,,,,,,,細菌域,Bacteria,,,厚壁菌門,Firmicutes,,,芽孢桿菌綱,Bacilli,,,乳桿菌目,Lactobacillales,乳桿菌科,Lactobacillaceae,,,乳桿菌屬,Lactobacillus,德氏乳桿菌,Lactobacillus delbrueckii
+1308,嗜熱鏈球菌,,,,,,,,細菌域,Bacteria,,,厚壁菌門,Firmicutes,,,芽孢桿菌綱,Bacilli,,,乳桿菌目,Lactobacillales,鏈球菌科,Streptococcaceae,,,鏈球菌屬,Streptococcus,嗜熱鏈球菌,Streptococcus thermophilus
+1358,乳酸乳球菌,,,,,,,,細菌域,Bacteria,,,厚壁菌門,Firmicutes,,,芽孢桿菌綱,Bacilli,,,乳桿菌目,Lactobacillales,鏈球菌科,Streptococcaceae,,,乳球菌屬,Lactococcus,乳酸乳球菌,Lactococcus lactis
+28448,木葡糖酸醋桿菌,,,,,,,,細菌域,Bacteria,,,變形菌門,Proteobacteria,,,α-變形菌綱,Alphaproteobacteria,,,紅螺菌目,Rhodospirillales,醋桿菌科,Acetobacteraceae,,,駒形桿菌屬,Komagataeibacter,木駒形桿菌,Komagataeibacter xylinus
+63752,肺衣,,,,,,,,眞核域,Eukaryota,眞菌界,Fungi,子囊菌門,Ascomycota,盤菌亞門,Pezizomycotina,茶漬綱,Lecanoromycetes,茶漬亞綱,Lecanoromycetidae,地捲目,Peltigerales,肺衣科,Lobariaceae,,,肺衣屬,Lobaria,,
+73501,蟲草花,,,,,,,,眞核域,Eukaryota,眞菌界,Fungi,子囊菌門,Ascomycota,盤菌亞門,Pezizomycotina,糞殼菌綱,Sordariomycetes,,,肉座菌目,Hypocreales,蟲草菌科,Cordycipitaceae,,,蟲草菌屬,Cordyceps,蟲草花,Cordyceps militaris
+4892,酵母,,,,,,,,眞核域,Eukaryota,眞菌界,Fungi,子囊菌門,Ascomycota,酵母亞門,Saccharomycotina,酵母綱,Saccharomycetes,,,酵母目,Saccharomycetales,,,,,,,,
+5341,雙孢蘑菇,,,,,,,,眞核域,Eukaryota,眞菌界,Fungi,擔子菌門,Basidiomycota,傘菌亞門,Agaricomycotina,傘菌綱,Agaricomycetes,傘菌亞綱,Agaricomycetidae,傘菌目,Agaricales,傘菌科,Agaricaceae,,,傘菌屬,Agaricus,雙孢蘑菇,Agaricus bisporus
+87252,姬松茸,,,,,,,,眞核域,Eukaryota,眞菌界,Fungi,擔子菌門,Basidiomycota,傘菌亞門,Agaricomycotina,傘菌綱,Agaricomycetes,傘菌亞綱,Agaricomycetidae,傘菌目,Agaricales,傘菌科,Agaricaceae,,,傘菌屬,Agaricus,姬松茸,Agaricus subrufescens
+56187,雞腿菇,,,,,,,,眞核域,Eukaryota,眞菌界,Fungi,擔子菌門,Basidiomycota,傘菌亞門,Agaricomycotina,傘菌綱,Agaricomycetes,傘菌亞綱,Agaricomycetidae,傘菌目,Agaricales,傘菌科,Agaricaceae,,,雞腿菇屬,Coprinus,雞腿菇,Coprinus comatus
+5400,茶樹菇,,,,,,,,眞核域,Eukaryota,眞菌界,Fungi,擔子菌門,Basidiomycota,傘菌亞門,Agaricomycotina,傘菌綱,Agaricomycetes,傘菌亞綱,Agaricomycetidae,傘菌目,Agaricales,糞傘科,Bolbitiaceae,,,田頭菇屬,Agrocybe,茶樹菇,Agrocybe aegerita
+39965,海鮮菇/蟹味菇,,,,,,,,眞核域,Eukaryota,眞菌界,Fungi,擔子菌門,Basidiomycota,傘菌亞門,Agaricomycotina,傘菌綱,Agaricomycetes,傘菌亞綱,Agaricomycetidae,傘菌目,Agaricales,離褶傘科,Lyophyllaceae,,,玉蕈屬,Hypsizygus,,
+79931,雞㙡/雞樅,,,,,,,,眞核域,Eukaryota,眞菌界,Fungi,擔子菌門,Basidiomycota,傘菌亞門,Agaricomycotina,傘菌綱,Agaricomycetes,傘菌亞綱,Agaricomycetidae,傘菌目,Agaricales,離褶傘科,Lyophyllaceae,,,蟻傘屬,Termitomyces,雞㙡,Termitomyces albuminosus
+5353,香菇,,,,,,,,眞核域,Eukaryota,眞菌界,Fungi,擔子菌門,Basidiomycota,傘菌亞門,Agaricomycotina,傘菌綱,Agaricomycetes,傘菌亞綱,Agaricomycetidae,傘菌目,Agaricales,光茸菌科,Omphalotaceae,,,香菇屬,Lentinula,香菇,Lentinula edodes
+47429,榛蘑/蜜環菌,,,,,,,,眞核域,Eukaryota,眞菌界,Fungi,擔子菌門,Basidiomycota,傘菌亞門,Agaricomycotina,傘菌綱,Agaricomycetes,傘菌亞綱,Agaricomycetidae,傘菌目,Agaricales,膨瑚菌科,Physalacriaceae,,,榛蘑屬,Armillaria,榛蘑,Armillaria mellea
+38945,金針菇,,,,,,,,眞核域,Eukaryota,眞菌界,Fungi,擔子菌門,Basidiomycota,傘菌亞門,Agaricomycotina,傘菌綱,Agaricomycetes,傘菌亞綱,Agaricomycetidae,傘菌目,Agaricales,膨瑚菌科,Physalacriaceae,,,小火菇屬,Flammulina,金針菇,Flammulina velutipes
+36659,草菇,,,,,,,,眞核域,Eukaryota,眞菌界,Fungi,擔子菌門,Basidiomycota,傘菌亞門,Agaricomycotina,傘菌綱,Agaricomycetes,傘菌亞綱,Agaricomycetidae,傘菌目,Agaricales,光柄菇科,Pluteaceae,,,小包腳菇屬,Volvariella,草菇,Volvariella volvacea
+5323,杏鮑菇,,,,,,,,眞核域,Eukaryota,眞菌界,Fungi,擔子菌門,Basidiomycota,傘菌亞門,Agaricomycotina,傘菌綱,Agaricomycetes,傘菌亞綱,Agaricomycetidae,傘菌目,Agaricales,側耳科,Pleurotaceae,,,側耳屬,Pleurotus,杏鮑菇,Pleurotus eryngii
+5322,平菇,,,,,,,,眞核域,Eukaryota,眞菌界,Fungi,擔子菌門,Basidiomycota,傘菌亞門,Agaricomycotina,傘菌綱,Agaricomycetes,傘菌亞綱,Agaricomycetidae,傘菌目,Agaricales,側耳科,Pleurotaceae,,,側耳屬,Pleurotus,側耳,Pleurotus ostreatus
+5368,牛肝菌,,,,,,,,眞核域,Eukaryota,眞菌界,Fungi,擔子菌門,Basidiomycota,傘菌亞門,Agaricomycotina,傘菌綱,Agaricomycetes,傘菌亞綱,Agaricomycetidae,牛肝菌目,Boletales,牛肝菌科,Boletaceae,,,,,,
+36056,美味牛肝菌,,,,,,,,眞核域,Eukaryota,眞菌界,Fungi,擔子菌門,Basidiomycota,傘菌亞門,Agaricomycotina,傘菌綱,Agaricomycetes,傘菌亞綱,Agaricomycetidae,牛肝菌目,Boletales,牛肝菌科,Boletaceae,,,牛肝菌属,Boletus,美味牛肝菌,Boletus edulis
+182626,黑牛肝菌,,,,,,,,眞核域,Eukaryota,眞菌界,Fungi,擔子菌門,Basidiomycota,傘菌亞門,Agaricomycotina,傘菌綱,Agaricomycetes,傘菌亞綱,Agaricomycetidae,牛肝菌目,Boletales,牛肝菌科,Boletaceae,,,牛肝菌属,Boletus,黑牛肝菌,Boletus aereus
+36065,雞油菌,chanterelle,,,,,,,眞核域,Eukaryota,眞菌界,Fungi,擔子菌門,Basidiomycota,傘菌亞門,Agaricomycotina,傘菌綱,Agaricomycetes,,,雞油菌目,Cantharellales,雞油菌科,Cantharellaceae,,,雞油菌屬,Cantharellus,,
+29892,黑木耳,wood ear/Jew's ear,,,,,,,眞核域,Eukaryota,眞菌界,Fungi,擔子菌門,Basidiomycota,傘菌亞門,Agaricomycotina,傘菌綱,Agaricomycetes,,,木耳目,Auriculariales,木耳科,Auricularaceae,,,木耳屬,Auricularia,黑木耳,Auricularia auricula-judae
+2016381,竹蓀,,,,,,,,眞核域,Eukaryota,眞菌界,Fungi,擔子菌門,Basidiomycota,傘菌亞門,Agaricomycotina,傘菌綱,Agaricomycetes,鬼筆亞綱,Phallomycetidae,鬼筆目,Phallales,鬼筆科,Phallaceae,,,鬼筆屬,Phallus,竹蓀,Phallus indusiatus
+81056,茯苓,,,,,,,,眞核域,Eukaryota,眞菌界,Fungi,擔子菌門,Basidiomycota,傘菌亞門,Agaricomycotina,傘菌綱,Agaricomycetes,,,多孔菌目,Polyporales,絢孔菌科,Laetiporaceae,,,茯苓屬,Wolfiporia,茯苓,Wolfiporia cocos
+91752,猴頭菇,,,,,,,,眞核域,Eukaryota,眞菌界,Fungi,擔子菌門,Basidiomycota,傘菌亞門,Agaricomycotina,傘菌綱,Agaricomycetes,,,紅菇目,Russulales,猴頭菇科,Hericiaceae,,,猴頭菇屬,Hericium,猴頭菇,Hericium erinaceus
+55514,嬭漿菌,,,,,,,,眞核域,Eukaryota,眞菌界,Fungi,擔子菌門,Basidiomycota,傘菌亞門,Agaricomycotina,傘菌綱,Agaricomycetes,,,紅菇目,Russulales,紅菇科,Russulaceae,,,乳菇屬,Lactarius,嬭浆菌,Lactarius deliciosus
+71688,青頭菌,,,,,,,,眞核域,Eukaryota,眞菌界,Fungi,擔子菌門,Basidiomycota,傘菌亞門,Agaricomycotina,傘菌綱,Agaricomycetes,,,紅菇目,Russulales,紅菇科,Russulaceae,,,紅菇科,Russula,青頭菌,Russula virescens
+64657,銀耳,,,,,,,,眞核域,Eukaryota,眞菌界,Fungi,擔子菌門,Basidiomycota,傘菌亞門,Agaricomycotina,銀耳綱,Tremellocetes,,,銀耳目,Tremellales,銀耳科,Tremellaceae,,,銀耳屬,Tremella,銀耳,Tremella fuciformis
+5269,黑粉菌,,,,,,,,眞核域,Eukaryota,眞菌界,Fungi,擔子菌門,Basidiomycota,黑粉菌亞門,Ustilaginomycotina,黑粉菌綱,Ustilaginomycetes,,,黑粉菌目,Ustilaginales,黑粉菌科,Ustilaginaceae,,,黑粉菌屬,Ustilago,,
+419950,可口革囊星蟲,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,環節動物門,Annelida,,,多毛綱,Polychaeta,星蟲亞綱,Sipuncula,革囊星蟲目,Phascolosomatiformes,革囊星蟲科,Phascolosomatidae,,,革囊星蟲屬,Phascolosoma,可口革囊星蟲,Phascolosoma esculenta
+6432,海腸,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,環節動物門,Annelida,,,多毛綱,Polychaeta,螠蟲亞綱,Echiura,無管螠目,Xenopneusta,刺螠科,Urechidae,,,刺螠屬,Urechis,單環刺螠,Urechis unicinctus
+386629,竹蟲,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,節肢動物門,Arthropoda,六足亞門,Hexapoda,䖵蟲綱,Insecta,有翅亞綱,Pterygota,鱗翅目,Lepidoptera,草螟科,Crambidae,斑野螟亞科,Spilomelinae,蠹野螟屬,Omphisa,筍蠹螟,Omphisa fuscidentalis
+7001,螞蚱,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,節肢動物門,Arthropoda,六足亞門,Hexapoda,䖵蟲綱,Insecta,有翅亞綱,Pterygota,直翅目,Orthoptera,,,,,,,,
+6728,小龍鰕,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,節肢動物門,Arthropoda,甲殼亞門,Crustacea,輭甲綱,Malacostraca,,,十足目,Decapoda,蝲蛄科,Cambaridae,,,原螯鰕屬,Procambarus,克氏原螯鰕,Procambarus clarkii
+41210,灰眼雪蟹/松葉蟹,,ずはいがに,,,,,,眞核域,Eukaryota,動物界,Metazoa,節肢動物門,Arthropoda,甲殼亞門,Crustacea,輭甲綱,Malacostraca,,,十足目,Decapoda,蜘蛛蟹科,Majidae,,,雪蟹屬,Chionoecetes,灰眼雪蟹,Chionoecetes opilio
+6706,波士頓龍鰕/波士頓龍蝦/波龍,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,節肢動物門,Arthropoda,甲殼亞門,Crustacea,輭甲綱,Malacostraca,,,十足目,Decapoda,海螯鰕科,Nephropidae,,,螯龍鰕屬,Homarus,美洲螯龍鰕,Homarus americanus
+6696,青鰕/青蝦,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,節肢動物門,Arthropoda,甲殼亞門,Crustacea,輭甲綱,Malacostraca,,,十足目,Decapoda,長臂鰕科,Palaemonidae,,,沼鰕屬,Macrobrachium,,
+111520,對鰕/對蝦,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,節肢動物門,Arthropoda,甲殼亞門,Crustacea,輭甲綱,Malacostraca,,,十足目,Decapoda,,,,,,,,
+139456,明鰕/明蝦/中國對鰕/中國對蝦,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,節肢動物門,Arthropoda,甲殼亞門,Crustacea,輭甲綱,Malacostraca,,,十足目,Decapoda,對鰕科,Penaeidae,,,明對鰕屬,Fenneropenaeus,明鰕,Fenneropenaeus chinensis
+32278,基圍鰕/基圍蝦/沙鰕/沙蝦,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,節肢動物門,Arthropoda,甲殼亞門,Crustacea,輭甲綱,Malacostraca,,,十足目,Decapoda,對鰕科,Penaeidae,,,新對鰕屬,Metapenaeus,刀額新對鰕,Metapenaeus ensis
+6687,草鰕/草蝦/斑節對鰕/斑節對蝦/黑虎鰕/黑虎蝦,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,節肢動物門,Arthropoda,甲殼亞門,Crustacea,輭甲綱,Malacostraca,,,十足目,Decapoda,對鰕科,Penaeidae,,,對鰕屬,Penaeus,草鰕,Penaeus monodon
+439395,毛鰕/毛蝦,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,節肢動物門,Arthropoda,甲殼亞門,Crustacea,輭甲綱,Malacostraca,,,十足目,Decapoda,櫻鰕科,Sergestidae,,,毛鰕屬,Acetes,,
+589641,櫻鰕/櫻蝦,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,節肢動物門,Arthropoda,甲殼亞門,Crustacea,輭甲綱,Malacostraca,,,十足目,Decapoda,櫻鰕科,Sergestidae,,,櫻鰕屬,Sergia,櫻鰕,Sergia lucens
+445213,阿根廷紅鰕/阿根廷紅蝦,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,節肢動物門,Arthropoda,甲殼亞門,Crustacea,輭甲綱,Malacostraca,,,十足目,Decapoda,管鞭鰕科,Solenoceridae,,,,Pleoticus,阿根廷紅鰕,Pleoticus muelleri
+6752,蟹/螃蟹,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,節肢動物門,Arthropoda,甲殼亞門,Crustacea,輭甲綱,Malacostraca,,,十足目,Decapoda,,,,,,,,
+95602,中華絨螯蟹/大閘蟹/河蟹,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,節肢動物門,Arthropoda,甲殼亞門,Crustacea,輭甲綱,Malacostraca,,,十足目,Decapoda,弓蟹科,Varunidae,,,絨螯蟹屬,Eriocheir,中華絨螯蟹,Eriocheir sinensis
+6683,鰕/蝦/鰕米/蝦米/鰕仁/蝦仁/大鰕/大蝦/鳳尾鰕/鳳尾蝦,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,節肢動物門,Arthropoda,甲殼亞門,Crustacea,輭甲綱,Malacostraca,,,十足目,Decapoda,,,,,,,,
+337810,皮皮鰕/瀨尿鰕,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,節肢動物門,Arthropoda,甲殼亞門,Crustacea,輭甲綱,Malacostraca,,,口足目,Stomatopoda,鰕蛄科,Squillidae,,,口鰕蛄屬,Oratosquilla,口鰕蛄,Oratosquilla oratoria
+186623,魚,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,,,,,,,,,,,,
+7901,鱘/鱘魚,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,輭骨硬鱗魚亞綱,Chondrostei,鱘形目,Acipenseriformes,鱘科,Acipenseridae,,,鱘屬,Acipenser,,
+7935,鰻/鰻魚,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,海鰱類,Elopocephala ,鰻鱺目,Anguilliformes,鰻鱺科,Anguillidae,,,鰻鱺屬,Anguilla,,
+7943,星鰻,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,海鰱類,Elopocephala ,鰻鱺目,Anguilliformes,糯鰻科,Congridae,糯鰻亞科,Congrinae,糯鰻屬,Conger,繁星糯鰻,Conger myriaster
+365059,刀魚/刀鱭,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鰾聽魚類,Otomorpha,鯡形目,Clupeiformes,鯷科,Engraulidae,,,鱭屬,Coilia,刀魚,Coilia nasus
+286537,鳳尾魚/鳳鱭,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鰾聽魚類,Otomorpha,鯡形目,Clupeiformes,鯷科,Engraulidae,,,鱭屬,Coilia,鳳鱭,Coilia mystus
+42892,丁香魚,,かたくちいわし,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鰾聽魚類,Otomorpha,鯡形目,Clupeiformes,鯷科,Engraulidae,,,鯷屬,Engraulis,日本鯷,Engraulis japonicus
+96888,小沙丁魚,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鰾聽魚類,Otomorpha,鯡形目,Clupeiformes,鯡科,Clupeidae,鯡亞科,Clupeinae,小沙丁魚屬,Sardinella,長頭小沙丁魚,Sardinella longiceps
+75329,泥鰍,oriental weatherfish,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鰾聽魚類,Otomorpha,鯉形目,Cypriniformes,鰍科,Cobitidae,鰍亞科,Cobitinae,泥鰍屬,Misgurnus,泥鰍,Misgurnus anguillicaudatus
+7957,鯽魚,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鰾聽魚類,Otomorpha,鯉形目,Cypriniformes,鯉科,Cyprinidae,,,鯽屬,Carassius,鯽,Carassius auratus
+172907,鯪魚,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鰾聽魚類,Otomorpha,鯉形目,Cypriniformes,鯉科,Cyprinidae,,,鯪屬,Cirrhinus,鯪,Cirrhinus molitorella
+7959,草魚/鯇魚,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鰾聽魚類,Otomorpha,鯉形目,Cypriniformes,鯉科,Cyprinidae,,,草魚屬,Ctenopharyngodon,草魚,Ctenopharyngodon idella
+194366,翹嘴鮊/白水魚,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鰾聽魚類,Otomorpha,鯉形目,Cypriniformes,鯉科,Cyprinidae,,,鮊屬,Culter,翹嘴鮊,Culter alburnus
+7962,鯉魚,carp,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鰾聽魚類,Otomorpha,鯉形目,Cypriniformes,鯉科,Cyprinidae,,,鯉屬,Cyprinus,鯉,Cyprinus carpio
+75350,䱗/白鰷/白條魚,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鰾聽魚類,Otomorpha,鯉形目,Cypriniformes,鯉科,Cyprinidae,,,䱗屬,Hemiculter,條鰶,Hemiculter leucisculus
+13095,鰱魚/白鰱,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鰾聽魚類,Otomorpha,鯉形目,Cypriniformes,鯉科,Cyprinidae,,,鰱屬,Hypophthalmichthys,鰱魚,Hypophthalmichthys molitrix
+7965,鱅魚/胖頭魚/花鰱,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鰾聽魚類,Otomorpha,鯉形目,Cypriniformes,鯉科,Cyprinidae,,,鰱屬,Hypophthalmichthys,鱅魚,Hypophthalmichthys nobilis
+75356,青魚,black carp,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鰾聽魚類,Otomorpha,鯉形目,Cypriniformes,鯉科,Cyprinidae,,,青魚屬,Mylopharyngodon,青魚,Mylopharyngodon piceus
+75358,鯿魚,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鰾聽魚類,Otomorpha,鯉形目,Cypriniformes,鯉科,Cyprinidae,,,鯿屬,Parabramis,鯿魚,Parabramis pekinensis
+51549,麥穗魚,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鰾聽魚類,Otomorpha,鯉形目,Cypriniformes,鯉科,Cyprinidae,,,麥穗魚屬,Pseudorasbora,麥穗魚屬,Pseudorasbora parva
+29144,蝨目魚,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鰾聽魚類,Otomorpha,鼠鱚目,Gonorynchiformes,蝨目魚科,Chanidae,,,蝨目魚屬,Chanos,蝨目魚,Chanos chanos
+1234273,黃顙魚/黃辣丁/黃鴨叫/昂刺魚,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鰾聽魚類,Otomorpha,鮎形目,Siluriformes,鮠科,Bagridae,,,瘋𩼝屬,Tachysurus,黃顙魚,Tachysurus fulvidraco
+365578,巴沙魚,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鰾聽魚類,Otomorpha,鮎形目,Siluriformes,巨鮎科,Pangasiidae,,,巨鮎屬,Pangasius,博氏巨鮎,Pangasius bocourti
+30991,鮎魚,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鰾聽魚類,Otomorpha,鮎形目,Siluriformes,鮎科,Siluridae,,,鮎屬,Silurus,花鮎,Silurus asotus
+1042646,阿拉斯加狹鱈/明太魚,,すけたうだら,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,副棘鰭類,Paracanthopterygii,鱈形目,Gadiformes,鱈科,Gadidae,,,鱈屬,Gadus,黃線狹鱈,Gadus chalcogrammus
+8049,大西洋鱈,Atlantic cod,大西洋だら,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,副棘鰭類,Paracanthopterygii,鱈形目,Gadiformes,鱈科,Gadidae,,,鱈屬,Gadus,大西洋鱈,Gadus morhua
+83392,細鱗壯鱈/水鱈魚,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,副棘鰭類,Paracanthopterygii,鱈形目,Gadiformes,鼠尾鱈科,Macrouridae,鼠尾鱈亞科,Macrourinae,壯鱈屬,Albatrossia,細鱗壯鱈,Albatrossia pectoralis
+215402,黑魚/烏鱧,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鱸形類,Percomorphaceae,攀鱸目,Anabantiformes,鱧科,Channidae,,,鱧屬,Channa,烏鱧,Channa argus
+129043,秋刀魚,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鱸形類,Percomorphaceae,頜針魚目,Beloniformes,頜針魚科,Belonidae,,,秋刀魚屬,Cololabis,秋刀魚,Cololabis saira
+76072,飛魚,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鱸形類,Percomorphaceae,頜針魚目,Beloniformes,飛魚科,Exocoetidae,,,,,,
+293917,馬步魚,,さより,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鱸形類,Percomorphaceae,頜針魚目,Beloniformes,鱵科,Hemiramphidae,,,下鱵魚屬,Hyporhamphus,沙氏下鱵,Hyporhamphus sajori
+443730,金鯧,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鱸形類,Percomorphaceae,鰺形目,Carangiformes,鰺科,Carangidae,,,鯧鰺屬,Trachinotus,布氏鯧鰺,Trachinotus baillonii
+83875,竹筴魚,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鱸形類,Percomorphaceae,鰺形目,Carangiformes,鰺科,Carangidae,,,竹筴魚屬,Trachurus,日本竹筴魚,Trachurus japonicus
+27706,大口黑鱸,largemouth bass,おほくちバス,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鱸形類,Percomorphaceae,太陽魚目,Centrarchiformes,太陽魚科,Centrarchidae,,,黑鱸屬,Micropterus,大口黑鱸,Micropterus salmoides
+119488,鱖魚/桂魚,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鱸形類,Percomorphaceae,太陽魚目,Centrarchiformes,鱖魚科,Sinipercidae,,,鱖魚屬,Siniperca,鱖魚,Siniperca chuatsi
+8139,羅非魚/非洲鯽魚/臺灣鯛/福壽魚/吳郭魚,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鱸形類,Percomorphaceae,慈鯛目,Cichliformes,慈鯛科,Cichlidae,,,口孵非鯽屬,Oreochromis,,
+8164,海鱸魚,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鱸形類,Percomorphaceae,單鰭魚形目,Pempheriformes,花鱸科,Lateolabracidae,,,花鱸屬,Lateolabrax,日本眞鱸,Lateolabrax japonicus
+8255,鴉片魚/牙鮃,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鱸形類,Percomorphaceae,鰈形目,Pleuronectiformes,牙鮃科,Paralichthyidae,,,牙鮃屬,Paralichthys,牙鮃,Paralichthys olivaceus
+106173,舌鰨/龍利魚,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鱸形類,Percomorphaceae,鰈形目,Pleuronectiformes,舌鰨科,Cynoglossidae,舌鰨亞科,Cynoglossinae,舌鰨屬,Cynoglossus,,
+8267,庸鰈/冰島比目魚/扁鱈,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鱸形類,Percomorphaceae,鰈形目,Pleuronectiformes,鰈科,Pleuronectidae,,,庸鰈屬,Hippoglossus,庸鰈,Hippoglossus hippoglossus
+13676,鯖魚/青花魚/青占魚/鮐魚,mackerel,さば,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鱸形類,Percomorphaceae,鯖形目,Scombriformes,鯖科,Scombridae,,,鯖屬,Scomber,白腹鯖,Scomber japonicus
+8234,金槍魚/鮪,tuna,まぐろ,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鱸形類,Percomorphaceae,鯖形目,Scombriformes,鯖科,Scombridae,,,金槍魚屬,Thunnus,,
+13678,馬鮫/鮁魚/土魠魚,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鱸形類,Percomorphaceae,鯖形目,Scombriformes,鯖科,Scombridae,鯖亞科,Scombrinae,馬鮫屬,Scomberomorus,,
+206173,銀鯧/平魚,silver pomfret,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鱸形類,Percomorphaceae,鯖形目,Scombriformes,鯧科,Stromateidae,,,鯧屬,Pampus,銀鯧,Pampus argenteus
+13732,帶魚,,たちうを,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鱸形類,Percomorphaceae,鯖形目,Scombriformes,帶魚科,Trichiuridae,,,帶魚屬,Trichiurus,,
+450225,金線魚,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鱸形類,Percomorphaceae,鯛形目,Spariformes,金線魚科,Nemipteridae,,,金線魚屬,Nemipterus,金線魚,Nemipterus virgatus
+8169,鯛魚,,たひ,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鱸形類,Percomorphaceae,鯛形目,Spariformes,鯛科,Sparidae,,,,,,
+119711,赤鯼,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鱸形類,Percomorphaceae,鯛形目,Spariformes,鯛科,Sparidae,,,牙鯛屬,Dentex,赤鯼,Dentex tumifrons
+43700,黃鱓,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鱸形類,Percomorphaceae,合鰓目,Synbranchiformes,合鰓魚科,Synbranchidae,,,黃鱓屬,Monopterus,黃鱓,Monopterus albus
+325629,馬面魨/短角單棘魨/剝皮魚,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鱸形類,Percomorphaceae,魨形目,Tetraodontiformes,單棘魨科,Monacanthidae,,,馬面魨屬,Thamnaconus,馬面魨,Thamnaconus modestus
+31022,河豚,,,,,,,,,,,,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鱸形類,Percomorphaceae,魨形目,Tetraodontiformes,,,,,,,,
+309541,暗紋東方魨,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鱸形類,Percomorphaceae,魨形目,Tetraodontiformes,四齒魨科,Tetraodontidae,,,東方魨屬,Takifugu,暗紋東方魨,Takifugu obscurus
+215358,大黃魚,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鱸形類,Percomorphaceae,,,石首魚科,Sciaenidae,,,黃魚屬,Larimichthys,大黃魚,Larimichthys crocea
+334908,小黃魚,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鱸形類,Percomorphaceae,,,石首魚科,Sciaenidae,,,黃魚屬,Larimichthys,小黃魚,Larimichthys polyactis
+240162,鮸魚/米魚,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鱸形類,Percomorphaceae,,,石首魚科,Sciaenidae,,,鮸魚屬,Miichthys,鮸魚,Miichthys miiuy
+8187,尖吻鱸/盲鰽,barramundi,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鱸形類,Percomorphaceae,,,鋸蓋魚科,Centropomidae,,,尖吻鱸屬,Lates,尖吻鱸,Lates calcarifer
+8015,鮭/三文魚,salmon,さけ/サーモン,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,原棘鰭類,Protacanthopterygii,鮭形目,Salmoniformes,鮭科,Salmonidae,鮭亞科,Salmoninae,,,,
+8022,虹鱒,rainbow trout,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,原棘鰭類,Protacanthopterygii,鮭形目,Salmoniformes,鮭科,Salmonidae,鮭亞科,Salmoninae,麻哈魚屬,Oncorhynchus,虹鱒,Oncorhynchus mykiss
+136040,多春魚/多膥魚,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,巨口魚類,Stomiatii,胡瓜魚目,Osmeriformes,胡瓜魚科,Osmeridae,,,油胡瓜魚屬,Spirinchus,長體油胡瓜魚,Spirinchus lanceolatus
+182234,銀魚,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,巨口魚類,Stomiatii,胡瓜魚目,Osmeriformes,銀魚科,Salangidae,,,,,,
+435155,龍頭魚/九肚魚/龍頭鮳/龍頭烤,Bombay duck fish,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,,,仙女魚目,Aulopiformes,合齒魚科,Synodontidae,龍頭魚亞科,Harpadontinae,龍頭魚屬,Harpadon,龍頭魚屬,Harpadon nehereus
+8400,牛蛙,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,兩棲綱,Amphibia,,,無尾目,Anura,蛙科,Ranidae,,,牛蛙屬,Lithobates,美國牛蛙,Lithobates catesbeianus
+1294634,鱷/鱷魚,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,蜥形綱,Sauropsida,,,鱷目,Crocodylia,,,,,,,,
+8502,灣鱷,saltwater crocodile,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,蜥形綱,Sauropsida,,,鱷目,Crocodylia,鱷科,Crocodylidae,,,鱷屬,Crocodylus,灣鱷,Crocodylus porosus
+8839,鴨,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,蜥形綱,Sauropsida,鳥類,Aves,雁形目,Anseriformes,鴨科,Anatidae,鴨亞科,Anatinae,鴨屬,Anas,綠頭鴨,Anas platyrhynchos
+8845,鵝,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,蜥形綱,Sauropsida,鳥類,Aves,雁形目,Anseriformes,鴨科,Anatidae,雁亞科,Anserinae,雁屬,Anser,鴻雁,Anser cygnoides
+8932,鴿,pigeon/dove,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,蜥形綱,Sauropsida,鳥類,Aves,鴿形目,Columbiformes,鳩鴿科,Columbidae,,,鴿屬,Columba,原鴿,Columba livia
+9090,鵪鶉,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,蜥形綱,Sauropsida,鳥類,Aves,雞形目,Galliformes,雉科,Phasianidae,鶉亞科,Perdicinae,鶉屬,Coturnix,,
+9031,雞,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,蜥形綱,Sauropsida,鳥類,Aves,雞形目,Galliformes,雉科,Phasianidae,雉亞科,Phasianinae,原雞屬,Gallus,原雞,Gallus gallus
+9103,火雞,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,蜥形綱,Sauropsida,鳥類,Aves,雞形目,Galliformes,雉科,Phasianidae,火雞亞科,Meleagridinae,火雞屬,Meleagris,火雞,Meleagris gallopavo
+13735,鱉/甲魚/王八,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,蜥形綱,Sauropsida,,,龜鱉目,Testudines,鱉科,Trionychidae,,,中華鱉屬,Pelodiscus,中華鱉,Pelodiscus sinensis
+119203,鯊/鯊魚,shark,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輭骨魚綱,Chondrichthyes,板鰓亞綱,Elasmobranchii,,,,,,,,,,
+1053780,大吻斜齒鯊,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輭骨魚綱,Chondrichthyes,板鰓亞綱,Elasmobranchii,眞鯊目,Carcharhiniformes,眞鯊科,Carcharhinidae,,,斜齒鯊屬,Scoliodon,大吻斜齒鯊,Scoliodon macrorhynchos
+9986,家兔,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,哺乳綱,Mammalia,靈長總目,Euarchontoglires,兔形目,Lagomorpha,兔科,Leporidae,,,穴兔屬,Oryctolagus,穴兔,Oryctolagus cuniculus
+27592,牛,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,哺乳綱,Mammalia,勞亞獸總目,Laurasiatheria,鯨偶蹄目,Cetartiodactyla,牛科,Bovidae,牛亞科,Bovinae,,,,
+30521,氂牛,yak,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,哺乳綱,Mammalia,勞亞獸總目,Laurasiatheria,鯨偶蹄目,Cetartiodactyla,牛科,Bovidae,牛亞科,Bovinae,牛屬,Bos,氂牛,Bos grunniens
+9913,黃牛,cow/cattle,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,哺乳綱,Mammalia,勞亞獸總目,Laurasiatheria,鯨偶蹄目,Cetartiodactyla,牛科,Bovidae,牛亞科,Bovinae,牛屬,Bos,黃牛,Bos taurus
+89462,水牛,buffalo,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,哺乳綱,Mammalia,勞亞獸總目,Laurasiatheria,鯨偶蹄目,Cetartiodactyla,牛科,Bovidae,牛亞科,Bovinae,水牛屬,Bubalus,水牛,Bubalus bubalis
+9963,羊,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,哺乳綱,Mammalia,勞亞獸總目,Laurasiatheria,鯨偶蹄目,Cetartiodactyla,牛科,Bovidae,羊亞科,Caprinae,,,,
+9923,山羊,goat,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,哺乳綱,Mammalia,勞亞獸總目,Laurasiatheria,鯨偶蹄目,Cetartiodactyla,牛科,Bovidae,羊亞科,Caprinae,山羊屬,Capra,山羊,Capra aegagrus
+9940,綿羊,sheep,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,哺乳綱,Mammalia,勞亞獸總目,Laurasiatheria,鯨偶蹄目,Cetartiodactyla,牛科,Bovidae,羊亞科,Caprinae,羊屬,Ovis,綿羊,Ovis aries
+9850,鹿,deer,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,哺乳綱,Mammalia,勞亞獸總目,Laurasiatheria,鯨偶蹄目,Cetartiodactyla,鹿科,Cervidae,,,,,,
+9863,梅花鹿,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,哺乳綱,Mammalia,勞亞獸總目,Laurasiatheria,鯨偶蹄目,Cetartiodactyla,鹿科,Cervidae,鹿亞科,Cervinae,鹿屬,Cervus,梅花鹿,Cervus nippon
+9825,豬,pig,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,哺乳綱,Mammalia,勞亞獸總目,Laurasiatheria,鯨偶蹄目,Cetartiodactyla,豬科,Suidae,,,豬屬,Sus,野豬,Sus scrofa
+9796,馬,horse,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,哺乳綱,Mammalia,勞亞獸總目,Laurasiatheria,奇蹄目,Perissodactyla,馬科,Equidae,,,馬屬,Equus,馬,Equus caballus
+9793,驢,donkey,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,哺乳綱,Mammalia,勞亞獸總目,Laurasiatheria,奇蹄目,Perissodactyla,馬科,Equidae,,,馬屬,Equus,驢,Equus asinus
+42807,海蟄,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,刺胞動物門,Cnidaria,,,缽水母綱,Scyphozoa,,,根口水母目,Rhizostomeae,根口水母科,Rhizostomatidae,,,,,,
+7625,海膽,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,棘皮動物門,Echinodermata,,,海膽綱,Echinoidea,,,,,,,,,,,,
+307972,刺蔘/遼蔘,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,棘皮動物門,Echinodermata,,,海蔘綱,Holothuroidea,楯手亞綱,Aspidochirotacea,楯手目,Aspidochirotida,刺蔘科,Stichopodidae,,,倣刺蔘屬,Apostichopus,刺蔘,Apostichopus japonicus
+7705,海蔘,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,棘皮動物門,Echinodermata,,,海蔘綱,Holothuroidea,,,,,,,,,,,,
+1049056,象鼻蚌/象拔蚌,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,輭體動物門,Mollusca,,,雙殼綱,Bivalvia,異齒亞綱,Heterodonta,海螂目,Myoida,縫棲蛤科,Hiatellidae,,,海神蛤屬,Panopea,太平洋潛泥蛤,Panopea generosa
+1421200,鳥貝,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,輭體動物門,Mollusca,,,雙殼綱,Bivalvia,異齒亞綱,Heterodonta,簾蛤目,Veneroida,鳥尾蛤科,Cardiidae,,,？屬,Keenocardium,加州扁鳥蛤,Keenocardium californiense
+45948,蜆,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,輭體動物門,Mollusca,,,雙殼綱,Bivalvia,異齒亞綱,Heterodonta,簾蛤目,Veneroida,蜆科,Corbiculidae,,,蜆屬,Corbicula,,
+339787,黃蜆子,,ばかがひ,,,,,,眞核域,Eukaryota,動物界,Metazoa,輭體動物門,Mollusca,,,雙殼綱,Bivalvia,異齒亞綱,Heterodonta,簾蛤目,Veneroida,馬珂蛤科,Mactridae,,,馬珂蛤屬,Mactra,中華馬珂蛤,Mactra chinensis
+81899,北極貝,,北寄がひ,,,,,,眞核域,Eukaryota,動物界,Metazoa,輭體動物門,Mollusca,,,雙殼綱,Bivalvia,異齒亞綱,Heterodonta,簾蛤目,Veneroida,馬珂蛤科,Mactridae,,,擬心蛤屬,Pseudocardium,庫䈎島馬珂蛤,Pseudocardium sachalinense
+98310,蟶子,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,輭體動物門,Mollusca,,,雙殼綱,Bivalvia,異齒亞綱,Heterodonta,簾蛤目,Veneroida,毛蟶科,Solecurtidae,,,螠蟶屬,Sinonovacula,螠蟶,Sinonovacula constricta
+194331,竹蟶,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,輭體動物門,Mollusca,,,雙殼綱,Bivalvia,異齒亞綱,Heterodonta,簾蛤目,Veneroida,竹蟶科,Solenidae,,,竹蟶屬,Solen,竹蟶,Solen strictus
+78549,紅心蛤,smooth clam,,,,,,,眞核域,Eukaryota,動物界,Metazoa,輭體動物門,Mollusca,,,雙殼綱,Bivalvia,異齒亞綱,Heterodonta,簾蛤目,Veneroida,簾蛤科,Veneridae,,,仙女蛤屬,Callista,光滑長文蛤,Callista chione
+74491,普通文蛤,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,輭體動物門,Mollusca,,,雙殼綱,Bivalvia,異齒亞綱,Heterodonta,簾蛤目,Veneroida,簾蛤科,Veneridae,,,文蛤屬,Meretrix,麗文蛤,Meretrix lusoria
+186463,花蛤,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,輭體動物門,Mollusca,,,雙殼綱,Bivalvia,異齒亞綱,Heterodonta,簾蛤目,Veneroida,簾蛤科,Veneridae,,,花簾蛤屬,Ruditapes,,
+311201,紫石房蛤/天鵝蛋,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,輭體動物門,Mollusca,,,雙殼綱,Bivalvia,異齒亞綱,Heterodonta,簾蛤目,Veneroida,簾蛤科,Veneridae,,,石房蛤屬,Saxidomus,紫石房蛤,Saxidomus purpuratus
+1069815,河蚌,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,輭體動物門,Mollusca,,,雙殼綱,Bivalvia,古異齒亞綱,Palaeoheterodonta,蚌目,Unionoida,蚌科,Unionidae,蚌亞科,Unioninae,中國無齒蚌屬,Sinanodonta,背角無齒蚌,Sinanodonta woodiana
+301959,貽貝,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,輭體動物門,Mollusca,,,雙殼綱,Bivalvia,翼形亞綱,Pteriomorphia,貽貝目,Mytiloida,貽貝科,Mytilidae,貽貝亞科,Mytilinae,,,,
+29158,海虹,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,輭體動物門,Mollusca,,,雙殼綱,Bivalvia,翼形亞綱,Pteriomorphia,貽貝目,Mytiloida,貽貝科,Mytilidae,貽貝亞科,Mytilinae,貽貝屬,Mytilus,紫貽貝,Mytilus galloprovincialis
+42192,淡菜,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,輭體動物門,Mollusca,,,雙殼綱,Bivalvia,翼形亞綱,Pteriomorphia,貽貝目,Mytiloida,貽貝科,Mytilidae,貽貝亞科,Mytilinae,貽貝屬,Mytilus,厚殼貽貝,Mytilus coruscus
+73031,青口,Asian green mussel,,,,,,,眞核域,Eukaryota,動物界,Metazoa,輭體動物門,Mollusca,,,雙殼綱,Bivalvia,翼形亞綱,Pteriomorphia,貽貝目,Mytiloida,貽貝科,Mytilidae,貽貝亞科,Mytilinae,股貽貝屬,Perna,翡翠貽貝,Perna viridis
+6566,扇貝,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,輭體動物門,Mollusca,,,雙殼綱,Bivalvia,翼形亞綱,Pteriomorphia,海扇蛤目,Pectinoida,海扇蛤科,Pectinidae,,,,,,
+1048738,江珧/帶子,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,輭體動物門,Mollusca,,,雙殼綱,Bivalvia,翼形亞綱,Pteriomorphia,鶯蛤目,Pterioida,江珧蛤科,Pinnidae,,,曲江珧蛤屬,Atrina,中國江珧,Atrina chinensis
+6563,牡蠣/生蠔,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,輭體動物門,Mollusca,,,雙殼綱,Bivalvia,翼形亞綱,Pteriomorphia,牡蠣目,Ostreoida,牡蠣科,Ostreidae,,,,,,
+6638,章魚,octopus,たこ,,,,,,眞核域,Eukaryota,動物界,Metazoa,輭體動物門,Mollusca,,,頭足綱,Cephalopoda,鮹亞綱,Coleoidea,八腕目,Octopoda,,,,,,,,
+6608,墨魚,cuttlefish,,,,,,,眞核域,Eukaryota,動物界,Metazoa,輭體動物門,Mollusca,,,頭足綱,Cephalopoda,鮹亞綱,Coleoidea,墨魚目,Sepiida,墨魚科,Sepiidae,,,,,,
+215450,烏鰂/烏鱡/烏賊/花枝,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,輭體動物門,Mollusca,,,頭足綱,Cephalopoda,鮹亞綱,Coleoidea,,,,,,,,,,
+34542,魷魚,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,輭體動物門,Mollusca,,,頭足綱,Cephalopoda,鮹亞綱,Coleoidea,管魷目,Teuthida,,,,,,,,
+6616,小管,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,輭體動物門,Mollusca,,,頭足綱,Cephalopoda,鮹亞綱,Coleoidea,管魷目,Teuthida,槍烏鰂科,Loliginidae,,,槍烏鰂屬,Loligo,小管槍烏鰂,Loligo oshimai
+6448,螺/蝸牛,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,輭體動物門,Mollusca,,,腹足綱,Gastropoda,,,,,,,,,,,,
+54976,螺螄,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,輭體動物門,Mollusca,,,腹足綱,Gastropoda,新進腹足亞綱,Caenogastropoda,主扭舌目,Architaenioglossa,田螺科,Viviparidae,,,,,,
+304853,花螺/深溝鳳螺,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,輭體動物門,Mollusca,,,腹足綱,Gastropoda,新進腹足亞綱,Caenogastropoda,新腹足目,Neogastropoda,峨螺科,Buccinidae,,,鳳螺屬,Babylonia,深溝鳳螺,Babylonia spirata
+127533,泥螺,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,輭體動物門,Mollusca,,,腹足綱,Gastropoda,異鰓亞綱,Heterobranchia,頭楯目,Cephalaspidea,泡螺科,Haminoeidae,,,泥螺屬,Bullacta,泥螺,Bullacta exarata
+6530,非洲大蝸牛,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,輭體動物門,Mollusca,,,腹足綱,Gastropoda,異鰓亞綱,Heterobranchia,柄眼目,Stylommatophora,瑪瑙螺科,Achatinidae,,,瑪瑙螺屬,Achatina,褐雲瑪瑙螺,Achatina fulica
+6452,鮑魚,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,輭體動物門,Mollusca,,,腹足綱,Gastropoda,古腹足亞綱,Vetigastropoda,小笠螺目,Lepetellida,鮑科,Haliotidae,,,鮑屬,Haliotis,,
+112057,海茸,,,,,,,,眞核域,Eukaryota,不等鞭毛類,Stramenopiles,,,,,褐藻綱,Phaeophyceae,,,墨角藻目,Fucales,海茸科,Durvillaeaceae,,,海茸屬,Durvillaea,海茸,Durvillaea antarctica
+2886,海帶,,,,,,,,眞核域,Eukaryota,不等鞭毛類,Stramenopiles,,,,,褐藻綱,Phaeophyceae,,,海帶目,Laminariales,,,,,,,,
+74381,裙帶菜,,,,,,,,眞核域,Eukaryota,不等鞭毛類,Stramenopiles,,,,,褐藻綱,Phaeophyceae,,,海帶目,Laminariales,翅藻科,Alariaceae,,,裙帶菜屬,Undaria,裙帶菜,Undaria pinnatifida
+33636,昆布,,,,,,,,眞核域,Eukaryota,不等鞭毛類,Stramenopiles,,,,,褐藻綱,Phaeophyceae,,,海帶目,Laminariales,海帶科,Laminariaceae,,,,,,
+,銀杏,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,頂臝子植物,Acrogymnospermae,,,銀杏亞綱,Ginkgoidae,銀杏目,Ginkgoales,銀杏科,Ginkgoaceae,,,銀杏屬,Ginkgo,銀杏,Ginkgo biloba
+,紅松,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,頂臝子植物,Acrogymnospermae,,,松柏亞綱,Pinidae,松目,Pinales,松科,Pinaceae,,,松屬,Pinus,紅松,Pinus koraiensis
+,西藏白皮松,chilgoza pine,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,頂臝子植物,Acrogymnospermae,,,松柏亞綱,Pinidae,松目,Pinales,松科,Pinaceae,,,松屬,Pinus,西藏白皮松,Pinus gerardiana
+,香榧,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,頂臝子植物,Acrogymnospermae,,,松柏亞綱,Pinidae,柏目,Cupressales,紅豆杉科,Taxaceae,,,榧屬,Torreya,香榧,Torreya grandis
+,蕨菜,bracken,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,,,眞蕨綱,Polypodiopsida,水龍骨亞綱,Polypodiidae,水龍骨目,Polypodiales,碗蕨科,Dennstaedtiaceae,,,蕨屬,Pteridium,蕨菜,Pteridium aquilinum
+,茨菰/慈菇,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,澤瀉目,Alismatales,澤瀉目,Alismataceae,,,茨菰屬,Sagittaria,茨菰,Sagittaria trifolia
+,蒟蒻,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,澤瀉目,Alismatales,天南星科,Araceae,天南星亞科,Aroideae,魔芋屬,Amorphophallus,蒟蒻,Amorphophallus konjac
+,芋,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,,,,,,,,,,
+,海菜花/洱海海菜,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,澤瀉目,Alismatales,水鱉科,Hydrocharitaceae,,,水車前屬,Ottelia,海菜花,Ottelia acuminata
+,椰子,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,,,,,,,,,,
+,檳榔,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,,,,,,,,,,
+,滇西蛇皮果,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,,,,,,,,,,
+,糖椶/泰國海底椰,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,,,,,,,,,,
+,椰棗/伊拉克蜜棗,date palm,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,,,,,,,,,,
+,水椰,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,,,,,,,,,,
+,薤/藠頭,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,,,,,,,,,,
+,洋蔥,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,,,,,,,,,,
+,蔥,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,,,,,,,,,,
+,沙蔥/蒙古韭,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,,,,,,,,,,
+,蒜,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,,,,,,,,,,
+,韭菜,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,,,,,,,,,,
+,蘆筍,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,,,,,,,,,,
+,麥冬,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,,,,,,,,,,
+,蘆薈,aloe,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,,,,,,,,,,
+,黃花菜,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,,,,,,,,,,
+,石橄欖,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,,,,,,,,,,
+,香草,vanilla,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,,,,,,,,,,
+,山藥,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,薯蕷目,Dioscoreales,薯蕷科,Dioscoreaceae,,,薯蕷屬,Dioscorea,長山藥,Dioscorea polystachya
+,百合,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,百合目,Liliales,百合科,Liliaceae,,,百合屬,Lilium,,
+,菠蘿,pineapple,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,,,,,,,,,,
+,荸薺,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,,,,,,,,,,
+,蘆葦,common reed,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,,,,,,,,,,
+,竹筍,bamboo,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,禾本目,Poales,禾本科,Poaceae,竹亞科,Bambusoideae,,,,
+,水稻/大米/粳米/秈稻/糯米,rice,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,,,,,,,,,,
+,菰,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,,,,,,,,,,
+,薏米/薏苡,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,,,,,,,,,,
+,香茅/檸檬草,lemon grass,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,禾本目,Poales,禾本科,Poaceae,黍亞科,Panicoideae,香茅屬,Cymbopogon,,
+,黍/大黃米/糯小米/糜子,broomcorn millet,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,,,,,,,,,,
+,甘蔗,sugarcane,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,,,,,,,,,,
+,小米/粟,foxtail millet,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,,,,,,,,,,
+,高粱/蜀黍,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,,,,,,,,,,
+,玉米,corn/maize,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,,,,,,,,,,
+,燕麥,oat,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,,,,,,,,,,
+,小麥,wheat,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,,,,,,,,,,
+,大麥,barley,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,,,,,,,,,,
+,草芽/水燭,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,禾本目,Poales,香蒲科,Typhaceae,,,香蒲屬,Typha,狹葉香蒲,Typha angustifolia
+,香蕉,banana,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,薑目,Zingiberales,芭蕉科,Musaceae,,,芭蕉屬,Musa,,
+,草果/草豆蔻,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,薑目,Zingiberales,薑科,Zingiberaceae,,,山薑屬,Alpinia,草果,Alpinia katsumadae
+,薑黃,turmeric,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,薑目,Zingiberales,薑科,Zingiberaceae,,,薑黃屬,Curcuma,薑黃,Curcuma longa
+,小豆蔻,green cardamom,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,薑目,Zingiberales,薑科,Zingiberaceae,,,小豆蔻屬,Elettaria,小豆蔻,Elettaria cardamomum
+,沙薑/山柰,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,薑目,Zingiberales,薑科,Zingiberaceae,,,山柰屬,Kaempferia,山柰,Kaempferia galanga
+,薑/生薑,ginger,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,薑目,Zingiberales,薑科,Zingiberaceae,,,薑屬,Zingiber,薑,Zingiber officinale
+,蒔蘿,dill,,西亞,,,葉,香料,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,當歸,,,,,,,藥,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,芹菜,celery,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,香菜/芫荽,coriander,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,孜然,cumin,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,胡蘿蔔,carrot,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,茴香/小茴香,fennel,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,歐芹/荷蘭芹,parsley,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,茴芹/大茴香,anise,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,遼東楤木,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,傘形目,Apiales,五加科,Araliaceae,,,楤木屬,Aralia,遼東楤木,Aralia elata
+,刺五加,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,傘形目,Apiales,五加科,Araliaceae,,,五加屬,Eleutherococcus,刺五加,Eleutherococcus senticosus
+,三七/田七,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,傘形目,Apiales,五加科,Araliaceae,,,人蔘屬,Panax,三七,Panax notoginseng
+,花旗蔘/西洋蔘,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,傘形目,Apiales,五加科,Araliaceae,,,人蔘屬,Panax,花旗蔘,Panax quinquefolius
+,苦丁茶/扣樹,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,冬青目,Aquifoliales,冬青科,Aquifoliaceae,,,冬青屬,Ilex,苦丁茶,Ilex kaushue
+,艾蒿,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,杭白菊,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,茼蒿/蓬蒿/蒿子桿,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,南茼蒿/鵝菜,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,向日葵,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,菊芋/洋薑/鬼子薑,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,馬蘭,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,洋甘菊,chamomile,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,雪蓮果/菊薯,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,牛蒡,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,菜薊/洋薊/朝鮮薊,artichoke,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,苦菊/苦苣,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,生菜,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,萵筍,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,油麥菜,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,貢菜,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,蒲公英,dandelion,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,菊目,Asterales,菊科,Asteraceae,菊苣亞科,Cichorioideae,蒲公英屬,Taraxacum,,
+,黨蔘,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,菊目,Asterales,桔梗科,Campanulaceae,,,黨蔘屬,Codonopsis,黨蔘,Codonopsis pilosula
+,桔梗,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,菊目,Asterales,桔梗科,Campanulaceae,,,桔梗屬,Platycodon ,桔梗,Platycodon grandiflorus
+,破布子/甘樹子,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,紫草目,Boraginales,破布木科,Cordiaceae,,,破布木屬,Cordia,破布木,Cordia dichotoma
+,金銀花/忍冬,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,川續斷目,Dipsacales,忍冬科,Caprifoliaceae,,,忍冬屬,Lonicera,忍冬,Lonicera japonica
+,獼猴桃,kiwi fruit,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,杜鵑花目,Ericales,獼猴桃科,Actinidiaceae,,,獼猴桃屬,Actinidia,,
+,枾,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,杜鵑花目,Ericales,枾樹科,Ebenaceae,,,枾樹屬,Diospyros,林枾,Diospyros kaki
+,蔓越莓,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,杜鵑花目,Ericales,杜鵑花科,Ericaceae,越橘亞科,Vaccinioideae,越橘屬,Vaccinium,,
+,藍莓,blueberry,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,杜鵑花目,Ericales,杜鵑花科,Ericaceae,越橘亞科,Vaccinioideae,越橘屬,Vaccinium,,
+,雞蛋果/蛋黃果,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,茶,tea,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,杜鵑花目,Ericales,山茶科,Theaceae,,,山茶屬,Camellia,,
+,咖啡,coffee,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,穿心蓮,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,甘露子/寶塔菜,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,薰衣草,lavender,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,脣形目,Lamiales,脣形科,Lamiaceae,荊芥亞科,Nepetoideae,薰衣草屬,Lavendula,,
+,地蔘/地筍,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,薄荷,mint,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,脣形目,Lamiales,脣形科,Lamiaceae,荊芥亞科,Nepetoideae,薄荷屬,Mentha,,
+,羅勒/九層塔/金不換,basil,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,牛至,oregano,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,紫蘇,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,仙草,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,夏枯草,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,芡歐鼠尾草,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,迷迭香,rosemary,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,麝香草/百里香,thyme,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,脣形目,Lamiales,脣形科,Lamiaceae,荊芥亞科,Nepetoideae,百里香屬,Thymus,,
+,茉莉,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,脣形目,Lamiales,木樨科,Oleaceae,,,素馨屬,Jasminum,,
+,油橄欖,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,脣形目,Lamiales,木樨科,Oleaceae,,,木樨欖屬,Olea,油橄欖,Olea europaea
+,桂花,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,脣形目,Lamiales,木樨科,Oleaceae,,,木樨屬,Osmanthus,桂花,Osmanthus fragrans
+,芝麻,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,脣形目,Lamiales,胡麻科,Pedaliaceae,,,胡麻屬,Sesamum,芝麻,Sesamum indicum
+,馬鞭草,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,脣形目,Lamiales,馬鞭草科,Verbenaceae,,,馬鞭草屬,Verbena,馬鞭草,Verbena officinalis
+,空心菜/蕹菜,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,茄目,Solanales,旋花科,Convolvulaceae,,,番薯屬,Ipomoea,蕹菜,Ipomoea aquatica
+,甘薯/白薯/紅薯/紫薯/地瓜,sweet patato,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,茄目,Solanales,旋花科,Convolvulaceae,,,番薯屬,Ipomoea,甘薯,Ipomoea batatas
+,辣椒,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,青椒,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,枸杞,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,黑枸杞,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,假酸漿,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,菇娘/燈籠果/酸漿,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,西紅枾/番茄,tomato,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,茄子,eggplant,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,人蔘果/香瓜茄,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,土豆/馬鈴薯,patato,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,冰草,iceplant,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,石竹目,Caryophyllales,番杏科,Aizoaceae,,,日中花屬,Mesembryanthemum,冰葉日中花,Mesembryanthemum crystallinum
+,莧菜,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,石竹目,Caryophyllales,莧科,Amaranthaceae,,,莧屬,Amaranthus,莧,Amaranthus tricolor
+,菠菜,spinach,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,石竹目,Caryophyllales,莧科,Amaranthaceae,,,菠菜屬,Spinacia,菠菜,Spinacia oleracea
+,落葵/木耳菜,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,石竹目,Caryophyllales,落葵科,Basellaceae,,,落葵屬,Basella,落葵,Basella alba
+,量天尺/火龍果,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,甜菜,beet,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,藜麥,quinoa,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,蕎麥/甜蕎,buckwheat,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,苦蕎,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,辣蓼/水蓼,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,,,,,,,,,,
+,馬齒莧,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超菊類,superasterids,,,石竹目,Caryophyllales,馬齒莧科,Portulacaceae,,,馬齒莧屬,Portulaca,馬齒莧,Portulaca oleracea
+,肉桂,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,木蘭類,magnoliids,,,樟目,Laurales,樟科,Lauraceae,,,樟屬,Cinnamomum,肉桂,Cinnamomum aromaticum
+,月桂,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,木蘭類,magnoliids,,,樟目,Laurales,樟科,Lauraceae,,,月桂屬,Laurus,月桂,Laurus nobilis
+,木薑子/山胡椒/山蒼,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,木蘭類,magnoliids,,,樟目,Laurales,樟科,Lauraceae,,,木薑子屬,Litsea,木薑子,Litsea cubeba
+,鱷梨/牛油果,avocado,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,木蘭類,magnoliids,,,樟目,Laurales,樟科,Lauraceae,,,鱷梨屬,Persea,鱷梨,Persea americana
+,番荔枝/釋迦,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,木蘭類,magnoliids,,,,,,,,,,,,
+,胡椒,pepper,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,木蘭類,magnoliids,,,胡椒目,Piperales,胡椒科,Piperaceae,,,胡椒屬,Piper,黑胡椒,Piper nigrum
+,蕺菜/魚腥草,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,木蘭類,magnoliids,,,胡椒目,Piperales,三白草科,Saururaceae,,,蕺菜屬,Houttuynia,蕺菜,Houttuynia cordata
+,辣根,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,十字花目,Brassicales,十字花科,Brassicaceae,,,辣根屬,Armoracia,辣根,Armoracia rusticana
+,菜花/花菜/花椰菜,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,十字花目,Brassicales,十字花科,Brassicaceae,,,蕓薹屬,Brassica,花椰菜,Brassica cretica
+,芥菜,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,十字花目,Brassicales,十字花科,Brassicaceae,,,蕓薹屬,Brassica,芥菜,Brassica juncea
+,洋白菜/圓白菜/捲心菜/高麗菜,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,十字花目,Brassicales,十字花科,Brassicaceae,,,蕓薹屬,Brassica,甘藍,Brassica oleracea
+,西蘭花,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,十字花目,Brassicales,十字花科,Brassicaceae,,,蕓薹屬,Brassica,甘藍,Brassica oleracea
+,大白菜,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,十字花目,Brassicales,十字花科,Brassicaceae,,,蕓薹屬,Brassica,蕓薹,Brassica rapa
+,青菜,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,十字花目,Brassicales,十字花科,Brassicaceae,,,蕓薹屬,Brassica,蕓薹,Brassica rapa
+,薺菜,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,十字花目,Brassicales,十字花科,Brassicaceae,,,薺菜屬,Capsella,薺菜,Capsella bursa-pastoris
+,芝麻菜,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,十字花目,Brassicales,十字花科,Brassicaceae,,,芝麻菜屬,Eruca,芝麻菜,Eruca vesicaria
+,西洋菜/豆瓣菜,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,十字花目,Brassicales,十字花科,Brassicaceae,,,豆瓣菜屬,Nasturtium,豆瓣菜,Nasturtium officinale
+,蘿蔔,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,十字花目,Brassicales,十字花科,Brassicaceae,,,蘿蔔屬,Raphanus,蘿蔔,Raphanus sativus
+,續隨子/水瓜榴,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,十字花目,Brassicales,山柑科,Capparaceae,,,山柑屬,Capparis,續隨子,Capparis spinosa
+,番木瓜,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,十字花目,Brassicales,番木瓜科,Caricaceae,,,番木瓜屬,Carica,番木瓜,Carica papaya
+,辣木,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,十字花目,Brassicales,辣木科,Moringaceae,,,辣木屬,Moringa,辣木,Moringa oleifera
+,冬瓜,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,葫蘆目,Cucurbitales,葫蘆科,Cucurbitaceae,,,冬瓜屬,Benincasa,冬瓜,Benincasa hispida
+,西瓜,watermelon,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,葫蘆目,Cucurbitales,葫蘆科,Cucurbitaceae,,,西瓜屬,Citrullus,西瓜,Citrullus lanatus
+,甜瓜/香瓜,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,葫蘆目,Cucurbitales,葫蘆科,Cucurbitaceae,,,甜瓜屬,Cucumis,厚皮甜瓜,Cucumis melo
+,刺角瓜/火蔘果,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,葫蘆目,Cucurbitales,葫蘆科,Cucurbitaceae,,,甜瓜屬,Cucumis,刺角瓜,Cucumis metuliferus
+,黃瓜,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,葫蘆目,Cucurbitales,葫蘆科,Cucurbitaceae,,,甜瓜屬,Cucumis,黃瓜,Cucumis sativus
+,南瓜,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,葫蘆目,Cucurbitales,葫蘆科,Cucurbitaceae,,,南瓜屬,Cucurbita,南瓜,Cucurbita moschata
+,西葫蘆,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,葫蘆目,Cucurbitales,葫蘆科,Cucurbitaceae,,,南瓜屬,Cucurbita,美洲南瓜,Cucurbita pepo
+,絞股藍,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,葫蘆目,Cucurbitales,葫蘆科,Cucurbitaceae,,,絞股藍屬,Gynostemma,絞股藍,Gynostemma pentaphyllum
+,葫蘆,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,葫蘆目,Cucurbitales,葫蘆科,Cucurbitaceae,,,葫蘆屬,Lagenaria,葫蘆,Lagenaria siceraria
+,絲瓜,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,葫蘆目,Cucurbitales,葫蘆科,Cucurbitaceae,,,絲瓜屬,Luffa,絲瓜,Luffa aegyptiaca
+,苦瓜,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,葫蘆目,Cucurbitales,葫蘆科,Cucurbitaceae,,,苦瓜屬,Momordica,苦瓜,Momordica charantia
+,羅漢果,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,葫蘆目,Cucurbitales,葫蘆科,Cucurbitaceae,,,羅漢果屬,Siraitia,羅漢果,Siraitia grosvenorii
+,䒷蔞/𦸈𧁾/瓜蔞,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,葫蘆目,Cucurbitales,葫蘆科,Cucurbitaceae,,,䒷蔞屬,Trichosanthes,䒷蔞,Trichosanthes kirilowii
+,皁莢,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,決明,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,酸角/羅望子,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,花生,peanut,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,南非茶,rooibos,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,黃芪,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,鷹嘴豆,chickpea,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,蝶豆花/藍蝴蝶,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,黃豆,soya,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,甘草,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,小扁豆/兵豆,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,草頭,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,青刀豆/四季豆,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,紅腰豆,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,豌豆,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,四棱豆/龍豆,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,葛,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,蠶豆,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,紅豆,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,綠豆,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,豇豆,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,榛子,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,殼斗目,Fagales,樺木科,Betulaceae,,,榛屬,Corylus,,
+,甘栗,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,殼斗目,Fagales,殼斗科,Fagaceae,,,栗屬,Castanea,歐洲栗,Castanea sativa
+,長山核桃/碧根果,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,殼斗目,Fagales,胡桃科,Juglandaceae,,,山核桃屬,Carya,長山核桃,Carya illinoinensis
+,核桃,chestnut,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,殼斗目,Fagales,胡桃科,Juglandaceae,,,胡桃屬,Juglans,,
+,楊梅,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,殼斗目,Fagales,楊梅科,Myricaceae,,,楊梅屬,Morella,楊梅,Morella rubra
+,山竹,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,金虎尾目,Malpighiales,藤黃科,Clusiaceae,,,藤黃屬,Garcinia,山竹,Garcinia mangostana
+,木薯,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,亞麻,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,金虎尾目,Malpighiales,亞麻科,Linaceae,,,亞麻屬,Linum,亞麻,Linum usitatissimum
+,西番蓮/百香果,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,金虎尾目,Malpighiales,西番蓮科,Passifloraceae,,,西番蓮屬,Passiflora,西番蓮,Passiflora edulis
+,餘甘子,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,守宮木/甜菜,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,可可,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,榴槤,durian,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,秋葵,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,玫瑰茄,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,胖大海,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,石榴,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,桃金娘目,Myrtales,千屈菜科,Lythraceae,,,石榴屬,Punica,石榴,Punica granatum
+,紅菱,water caltrop,ひし,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,桃金娘目,Myrtales,千屈菜科,Lythraceae,,,菱屬,Trapa,兩角菱,Trapa bicornis
+,番石榴/芭樂,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,丁香,clove,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,蓮霧,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,楊桃,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,酢漿草目,Oxalidales,酢漿草科,Oxalidaceae,,,楊桃屬,Averrhoa,楊桃,Averrhoa carambola
+,大麻,hemp,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,薔薇目,Rosales,大麻科,Cannabaceae,,,大麻屬,Cannabis,尋常大麻,Cannabis sativa
+,波羅蜜,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,薔薇目,Rosales,桑科,Moraceae,,,桂木屬,Artocarpus,波羅蜜,Artocarpus altilis
+,無花果,fig,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,薔薇目,Rosales,桑科,Moraceae,,,榕屬,Ficus,無花果,Ficus carica
+,桑,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,薔薇目,Rosales,桑科,Moraceae,,,桑屬,Morus,白桑,Morus alba
+,沙棘,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,薔薇目,Rosales,胡頹子科,Elaeagnaceae,,,沙棘屬,Hippophae,沙棘,Hippophae rhamnoides
+,棗/酸棗,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,薔薇目,Rosales,鼠李科,Rhamnaceae,,,棗屬,Ziziphus,棗,Ziziphus jujuba
+,青棗/滇刺棗/印度棗,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,薔薇目,Rosales,鼠李科,Rhamnaceae,,,棗屬,Ziziphus,印度棗,Ziziphus mauritiana
+,山樝,haw,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,薔薇目,Rosales,薔薇科,Rosaceae,桃亞科,Amygdaloideae,山樝屬,Crataegus,,
+,枇杷,loquat,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,蘋果,apple,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,杏,apricot,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,歐洲李,plum,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,扁桃,almond,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,梅,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,桃,peach,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,櫻桃,cherry,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,薔薇目,Rosales,薔薇科,Rosaceae,桃亞科,Amygdaloideae,李屬,Prunus,,
+,梨,pear,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,薔薇目,Rosales,薔薇科,Rosaceae,桃亞科,Amygdaloideae,梨屬,Pyrus,,
+,蕨麻/人蔘果,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,草莓,strawberry,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,薔薇目,Rosales,薔薇科,Rosaceae,薔薇亞科,Rosoideae,草莓屬,Fragaria,,
+,玫瑰,rose,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,薔薇目,Rosales,薔薇科,Rosaceae,薔薇亞科,Rosoideae,玫瑰屬,Rosa,,
+,刺梨/繅絲花,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,樹莓/覆盆子,red raspberry,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,腰果,cashew,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,無患子目,Sapindales,漆樹科,Anacardiaceae,,,腰果屬,Anacardium,腰果,Anacardium occidentale
+,芒果,mango,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,無患子目,Sapindales,漆樹科,Anacardiaceae,,,芒果屬,Mangifera,芒果,Mangifera indica
+,開心果,pistachio,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,無患子目,Sapindales,漆樹科,Anacardiaceae,,,黃連木屬,Pistacia,阿月渾子,Pistacia vera
+,橄欖,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,無患子目,Sapindales,橄欖科,Burseraceae,,,橄欖屬,Canarium,橄欖,Canarium album
+,香椿,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,無患子目,Sapindales,楝科,Meliaceae,,,香椿屬,Toona,香椿,Toona sinensis
+,藤椒,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,花椒/青花椒/麻椒,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,無患子目,Sapindales,芸香科,Rutaceae,脂檀亞科,Amyridoideae,花椒屬,Zanthoxylum,,
+,檸檬,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,橘子,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,無患子目,Sapindales,芸香科,Rutaceae,柑橘亞科,Aurantioideae,柑橘屬,Citrus,,
+,橙子,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,無患子目,Sapindales,芸香科,Rutaceae,柑橘亞科,Aurantioideae,柑橘屬,Citrus,,
+,柚子,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,無患子目,Sapindales,芸香科,Rutaceae,柑橘亞科,Aurantioideae,柑橘屬,Citrus,,
+,金橘,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,,,,,,,,,,
+,龍眼,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,無患子目,Sapindales,無患子科,Sapindaceae,,,龍眼屬,Dimocarpus,龍眼,Dimocarpus longan
+,荔枝,litchi,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,無患子目,Sapindales,無患子科,Sapindaceae,,,荔枝屬,Litchi,荔枝,Litchi chinensis
+,紅毛丹,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,無患子目,Sapindales,無患子科,Sapindaceae,,,韶子屬,Nephelium,紅毛丹,Nephelium lappaceum
+,葡萄/提子,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,葡萄目,Vitales,葡萄科,Vitaceae,,,葡萄屬,Vitis,,
+,牡丹,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,超薔薇類,superrosids,,,虎耳草目,Saxifragales,芍藥科,Paeoniaceae,,,芍藥屬,Paeonia,,
+,大料,star anise,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,,,,,木蘭藤目,Austrobaileyales,五味子科,Schisandraceae,,,八角屬,Illicium,八角,Illicium verum
+,芡,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,,,,,睡蓮目,Nymphaeales,睡蓮科,Nymphaeaceae,,,芡屬,Euryale,芡,Euryale ferox
+,蓮,lotus,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,,,,,山龍眼目,Proteales,蓮科,Nelumbonaceae,,,蓮屬,Nelumbo,蓮,Nelumbo nucifera
+,夏威夷果/澳洲堅果,macadamia,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,,,,,山龍眼目,Proteales,山龍眼科,Proteaceae,,,澳洲堅果屬,Macadamia,,
+3118,滸苔/苔條/苔菜,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,綠藻門,Chlorophyta,,,石蒓綱,Ulvophyceae,,,石蒓目,Ulvales,石蒓科,Ulvaceae,,,石蒓屬,Ulva,,
+2784,紫菜,,,,,,,,眞核域,Eukaryota,,,紅藻門,Rhodophyta,,,紅毛菜綱,Bangiophyceae,,,紅毛菜目,Bangiales,紅毛菜科,Bangiaceae,,,紫菜屬,Porphyra,,
+1094566,海苔,,,,,,,,眞核域,Eukaryota,,,紅藻門,Rhodophyta,,,紅毛菜綱,Bangiophyceae,,,紅毛菜目,Bangiales,紅毛菜科,Bangiaceae,,,海苔屬,Pyropia,,
+2811,石花菜,,,,,,,,眞核域,Eukaryota,,,紅藻門,Rhodophyta,,,眞紅藻綱,Florideophyceae,眞紅藻亞綱,Rhodymeniophycidae,石花菜目,Gelidiales,石花菜科,Gelidiaceae,,,石花菜屬,Gelidium,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,槐花,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,榆錢,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,螺旋藻,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,黑松露,,盒馬,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,甜蘆粟,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,鼠尾草,sage,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,艾草,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,藏紅花,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,白香魚,*,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,甜鰕,*,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,牡丹鰕,*,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,大馬哈魚,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,鰤魚,*,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,赤貝,*,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,鯔魚,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,人蔘,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,白朮,*,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,瑪咖,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,石斛,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,筍殼魚,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,澳洲龍鰕,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,多寶魚,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,龍躉魚/鞍帶石斑魚,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,羊肚菌,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,北杏仁,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,蘘荷,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,紅鼓魚,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,涼薯/沙葛,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,牛嬭果,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,澳洲肺魚,,,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,,,肺魚亞綱,Dipnoi,角齒魚目,Ceratodontiformes,澳洲肺魚科,Neoceratodontidae,,,澳洲肺魚屬,Neoceratodus,昆士蘭肺魚,Neoceratodus forsteri
+,香芋,,,,,,,,眞核域,Eukaryota,綠色植物界,Viridiplantae,鏈形植物門,Streptophyta,被子植物,Magnoliophyta,百合綱,Liliopsida,,,薯蕷目,Dioscoreales,薯蕷科,Dioscoreaceae,,,薯蕷屬,Dioscorea,蔘薯,Dioscorea alata
+,油魚/龍鱈魚/異鱗蛇鯖,"escolar, white tuna",,,,,,,眞核域,Eukaryota,動物界,Metazoa,脊索動物門,Chordata,脊椎動物,Vertebrata,輻鰭魚綱,Actinopteri,鱸形類,Percomorphaceae,鯖形目,Scombriformes,蛇鯖科,Gempylidae,,,異鱗蛇鯖屬,Lepidocybium,異鱗蛇鯖,Lepidocybium flavobrunneum
