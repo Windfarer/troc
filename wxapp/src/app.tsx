@@ -62,9 +62,10 @@ class App extends Component {
   }
 
   componentDidMount() {
+    Taro.$store = store
     auth.login().then((res) => {
       const token = res.data.access
-      store.authStore.updateToken(token)
+      Taro.$store.authStore.updateToken(token)
       console.log('login success')
     })
   }

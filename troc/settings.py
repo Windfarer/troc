@@ -161,3 +161,9 @@ WEIXIN = {
 }
 STATIC_ROOT = env("STATIC_ROOT", default="/data/static/")
 SITE_ID = 1
+
+from datetime import timedelta
+
+SIMPLE_JWT = {
+    'ACCESS_TOKEN_LIFETIME': timedelta(days=1),
+}

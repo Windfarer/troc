@@ -21,9 +21,6 @@ export default class SpeciesStatus extends Component {
   }
 
   handleSearchChange(query) {
-    this.setState({
-      query: query
-    })
     this.props.onSearchChange(query)
   }
 

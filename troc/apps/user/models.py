@@ -6,3 +6,6 @@ class WxAppUser(AbstractUser):
     openid = models.CharField(max_length=200)
     unionid = models.CharField(max_length=200, null=True)
     session_key = models.CharField(max_length=200)
+
+    def __str__(self):
+        return "<WxAppUser {}>".format(self.username)
