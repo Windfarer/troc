@@ -37,6 +37,9 @@ class Species(models.Model):
     species = models.CharField(max_length=200, null=True, verbose_name="种")
     species_cn = models.CharField(max_length=200, null=True, verbose_name="种-中文")
 
+    subspecies = models.CharField(max_length=200, null=True, verbose_name="亚种")
+    subspecies_cn = models.CharField(max_length=200, null=True, verbose_name="亚种-中文")
+
     name_cn = models.CharField(max_length=200, verbose_name="名称-中文")
     name_en = models.CharField(max_length=200, null=True, verbose_name="名称-英文")
     name_jp = models.CharField(max_length=200, null=True, verbose_name="名称-日文")

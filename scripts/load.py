@@ -42,6 +42,8 @@ def load_data(file_path):
             x.genus = i["屬-latin"]
             x.species_cn = i["種"]
             x.species = i["種-latin"]
+            x.subspecies_cn = i["亞種"]
+            x.subspecies = i["亞種-latin"]
             x.origin = i.get("原產地")
             x.habitats = i.get("生境")
             x.part = i.get("食用部位")
