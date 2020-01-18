@@ -6,7 +6,7 @@ import {inject, observer} from "@tarojs/mobx";
 
 @inject('bagStore')
 @observer
-export default class SpeciesStatus extends Component {
+export default class BagStatus extends Component {
   constructor(props) {
     super(props);
   }
@@ -17,7 +17,7 @@ export default class SpeciesStatus extends Component {
   render() {
     const {bagStore: {total, kingdomCount, clazzCount}} = this.props
     return (
-      <View className='container'>
+      <View className='bag-status'>
         <View className='col'>
           <View className='label'>
             总数
@@ -26,6 +26,7 @@ export default class SpeciesStatus extends Component {
             {total}
           </View>
         </View>
+        <View className='separator'/>
         <View className='col'>
           <View className='label'>
             界
@@ -34,6 +35,7 @@ export default class SpeciesStatus extends Component {
             {kingdomCount}
           </View>
         </View>
+        <View className='separator'/>
         <View className='col'>
           <View className='label'>
             纲

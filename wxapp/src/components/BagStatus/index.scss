@@ -1,0 +1,36 @@
+.bag-status {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+  .col {
+    //border-style: solid;
+    //border-width: 1px;
+    //border-color: black;
+
+    width: 180px;
+    height: 180px;
+
+    display: flex;
+    flex-direction: column;
+
+    .label {
+      margin-top: 10px;
+      margin-left: 20px;
+    }
+    .value {
+      font-size: 120px;
+      line-height: 120px;
+      font-weight: bold;
+      text-align: center;
+      vertical-align: middle;
+    }
+  }
+
+  .separator {
+    border-left:1px solid black;
+    width: 1px;
+    height: 130px
+  };
+}
