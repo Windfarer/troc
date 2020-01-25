@@ -4,6 +4,8 @@ import {ScrollView, View} from '@tarojs/components'
 import api from '../../services/api'
 import {BagStatus} from '../../components/BagStatus'
 import {SpeciesCard} from '../../components/SpeciesCard'
+import {SearchInput} from '../../components/SearchInput'
+
 import './speciesList.scss'
 
 export default class SpeciesList extends Component {
@@ -92,6 +94,7 @@ export default class SpeciesList extends Component {
     return (
       <View className='main'>
         <View><BagStatus></BagStatus></View>
+        <View><SearchInput></SearchInput></View>
         <View className='list'>
           {list}
         </View>

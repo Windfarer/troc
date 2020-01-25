@@ -1,5 +1,5 @@
 import Taro, {Component} from '@tarojs/taro'
-import {View} from '@tarojs/components'
+import {Input, View} from '@tarojs/components'
 
 import './index.scss'
 import {inject, observer} from "@tarojs/mobx";
@@ -26,9 +26,8 @@ export default class SearchInput extends Component {
   render() {
     const {query} = this.state
     return (
-      <View className=''>
-        <View className=''>
-        </View>
+      <View className='container'>
+          <Input type='text' placeholder='Search...' />
       </View>
     )
   }
