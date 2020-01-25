@@ -1,0 +1,12 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  //background: #FFB359;
+
+  .list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}

@@ -3,7 +3,7 @@ import {ScrollView, View} from '@tarojs/components'
 
 import api from '../../services/api'
 import {BagStatus} from '../../components/BagStatus'
-
+import {SpeciesCard} from '../../components/SpeciesCard'
 import './speciesList.scss'
 
 export default class SpeciesList extends Component {
@@ -82,9 +82,19 @@ export default class SpeciesList extends Component {
   }
 
   render() {
+    const {speciesList} = this.state
+    const list = speciesList.map((item) => (
+      <SpeciesCard
+        key={item.id}
+        data={item}
+      />
+    ))
     return (
       <View className='main'>
-        <BagStatus></BagStatus>
+        <View><BagStatus></BagStatus></View>
+        <View className='list'>
+          {list}
+        </View>
       </View>
     )
   }
