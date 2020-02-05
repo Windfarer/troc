@@ -6,7 +6,10 @@
   .head {
     background: #FFB359;
     padding-bottom: 40px;
-    height: 200px;
+    height: 340px;
+    .status {
+      margin-top: 120px;
+    }
   }
 
   .row {
@@ -24,6 +27,6 @@
   .list {
     padding-top: 0;
     margin-top: -30px;
-    height: calc(100vh - 310px);
+    height: calc(100vh - 340px);
   }
 }

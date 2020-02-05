@@ -93,7 +93,11 @@ export default class SpeciesList extends Component {
     ))
     return (
       <View className='main'>
-        <View className='row head'><BagStatus></BagStatus></View>
+        <View className='row head'>
+          <View className='status'>
+            <BagStatus></BagStatus>
+          </View>
+        </View>
         <View className='row search'><SearchInput></SearchInput></View>
         <ScrollView
           enableFlex
