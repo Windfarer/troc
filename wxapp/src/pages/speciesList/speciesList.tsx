@@ -93,11 +93,18 @@ export default class SpeciesList extends Component {
     ))
     return (
       <View className='main'>
-        <View><BagStatus></BagStatus></View>
-        <View><SearchInput></SearchInput></View>
-        <View className='list'>
+        <View className='row head'><BagStatus></BagStatus></View>
+        <View className='row search'><SearchInput></SearchInput></View>
+        <ScrollView
+          enableFlex
+          enableBackToTop
+          scrollY
+          scrollWithAnimation
+          onScroll={this.scrollDebug}
+          onScrollToLower={this.onScrollToLower}
+          className='row list'>
           {list}
-        </View>
+        </ScrollView>
       </View>
     )
   }
