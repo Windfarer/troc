@@ -3,6 +3,7 @@ import {Input, View} from '@tarojs/components'
 
 import './index.scss'
 import {inject, observer} from "@tarojs/mobx";
+import {XIcon} from '../../icons'
 
 
 @inject('bagStore')
@@ -27,7 +28,10 @@ export default class SearchInput extends Component {
     const {query} = this.state
     return (
       <View className='container'>
-          <Input type='text' placeholder='Search...' />
+        <Input type='text' placeholder='Search...'/>
+        <View className='search-button'>
+          <XIcon icon='search'></XIcon>
+        </View>
       </View>
     )
   }

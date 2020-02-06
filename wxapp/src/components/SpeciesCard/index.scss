@@ -7,6 +7,11 @@
   margin-top: 20px;
 
   .default {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+
     .content {
       .name {
         padding-top: 30px;
@@ -24,7 +29,10 @@
       }
     }
     .action {
-
+      padding-top: 30px;
+      padding-right: 20px;
+      font-size: 100px;
+      color: #767676;
     }
   }
 }

@@ -3,7 +3,7 @@ import {View} from '@tarojs/components'
 
 import './index.scss'
 import {inject, observer} from "@tarojs/mobx";
-import {AtListItem} from "taro-ui";
+import {XIcon} from '../../icons'
 
 @inject('bagStore')
 @observer
@@ -47,7 +47,7 @@ export default class SpeciesCard extends Component {
             </View>
           </View>
           <View className='action'>
-            <View className='add-button'></View>
+            <XIcon icon='plus'></XIcon>
           </View>
         </View>
         {/*<View className='addition'>*/}
