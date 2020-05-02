@@ -1,0 +1,132 @@
+syntax = "proto3";
+
+package messages.api;
+
+import "utils.proto";
+
+message Request {
+
+    enum Action {
+        UNKNOWN = 0;
+        ERROR = 2;
+
+        LOGIN = 3;
+        GET_USER_INFO = 4;
+        UPDATE_WECHAT_USER_INFO = 5;
+        PUSH_FORM_ID = 6;
+        REQUEST_AD_AUTH = 7;
+        GET_DAILY_CHALLENGE_INFO = 8;
+        ENROLL_DAILY_CHALLENGE = 9;
+        GET_WITHDRAW_INFO = 10;
+        REQUEST_WITHDRAW = 11;
+
+        GET_INVITATION_INFO = 12;
+        BIND_INVITATION = 13;
+    }
+
+    Action action = 1;
+    bool block = 2;
+    oneof data {
+        Login login = 3;
+        utils.Empty get_user_info = 4;
+        UpdateWechatUserInfo update_wechat_user_info = 5;
+        PushFormId push_form_id = 6;
+        utils.Empty request_ad_auth = 7;
+        utils.Empty get_daily_challenge_info = 8;
+        EnrollChallenge enroll_daily_challenge = 9;
+        utils.Empty get_withdraw_info = 10;
+        utils.Empty request_withdraw = 11;
+        utils.Empty get_invitation_info = 12;
+        utils.ItemRequest bind_invitation = 13;
+    }
+}
+
+message Response {
+    Request.Action action = 1;
+    oneof data {
+        utils.Error error = 2;
+        LoginResponse login = 3;
+        UserInfo get_user_info = 4;
+        UserInfo update_wechat_user_info = 5;
+        utils.SimpleResult push_form_id = 6;
+        AdAuthChallengeInfo request_ad_auth = 7;
+        DailyChallengeInfo get_daily_challenge_info = 8;
+        DailyChallengeInfo enroll_daily_challenge = 9;
+        WithdrawInfo get_withdraw_info = 10;
+        WithdrawInfo request_withdraw = 11;
+        InvitationInfo get_invitation_info = 12;
+        utils.SimpleResult bind_invitation = 13;
+    }
+}
+
+message Login {
+    string code = 1;
+}
+
+message LoginResponse {
+    string token = 1;
+    UserInfo user = 2;
+}
+
+message UserInfo {
+    string id = 1;
+    string nick_name = 2;
+    string avatar_url = 3;
+}
+
+message UpdateWechatUserInfo {
+    string user_info = 1;
+    string raw_data = 2;
+    string signature = 3;
+    string encrypted_data = 4;
+    string iv = 5;
+}
+
+message PushFormId {
+    string form_id = 1;
+}
+
+message AdAuthChallengeInfo {
+    string key = 1;
+}
+
+message EnrollChallenge {
+    string token = 1;
+    string timestamps = 2;
+}
+
+message UserRank {
+    uint64 rank = 1;
+    uint64 count = 2;
+    UserInfo user_info = 3;
+}
+
+message DailyChallengeInfo {
+    UserRank my_rank = 1;
+    repeated UserRank top_ranks = 2;
+    uint64 total_count = 3;
+    uint64 yesterday_prize = 4;
+}
+
+message WithdrawInfo {
+    uint64 balance = 1;
+    enum WithDrawStatus {
+        IDLE = 0;
+        PROCESSING = 1;
+        BANNED = 2;
+    };
+    WithDrawStatus status = 2;
+    uint64 pending_amount = 3;
+    uint64 settling_amount = 4;
+}
+
+message InvitationUser {
+    UserInfo user_info = 1;
+    uint64 amount = 2;
+}
+
+message InvitationInfo {
+    uint64 amount = 1;
+    uint64 count = 2;
+    repeated InvitationUser users = 3;
+}

@@ -1,0 +1,98 @@
+syntax="proto3";
+
+package messages.utils;
+
+message EditableString {
+    oneof content {
+        bool unset = 1;  // True to set the data to empty;
+        string data = 2;
+    }
+}
+
+message EditableStringList {
+    bool unset = 1;  // True to set the data to empty;
+    repeated string data = 2;
+}
+
+message EditableInt32 {
+    oneof content {
+        bool unset = 1;  // True to set the data to empty;
+        int32 data = 2;
+    }
+}
+
+message Empty {
+}
+
+message SimpleResult {
+    bool ok = 1;
+}
+
+message ListRequest {
+    int32 page_num = 1;
+    int32 page_size = 2;
+}
+
+message ItemRequest {
+    string id = 1;
+}
+
+message MultiItemsRequest {
+    repeated string ids = 1;
+}
+
+message Error {
+    int32 code = 1;
+    string msg = 2;
+    string extra = 3;
+}
+
+enum Gender {
+    GENDER_UNKNOWN = 0;
+    MALE = 1;
+    FEMALE = 2;
+}
+
+enum PhonePlatform {
+    PHONEOS_UNKNOWN = 0;
+    ANDROID = 1;
+    IOS = 2;
+}
+
+message WechatAddress {
+    string user_name = 1;
+    string postal_code = 2;
+    string province_name = 3;
+    string city_name = 4;
+    string county_name = 5;
+    string detail_info = 6;
+    string national_code = 7;
+    string tel_number = 8;
+}
+
+message WechatPayReqData {
+    string time_stamp = 1;
+    string nonce_str = 2;
+    string package = 3;
+    string sign_type = 4;
+    string pay_sign = 5;
+}
+
+message NewPaymentData {
+    WechatPayReqData wx_req_data = 1;
+    string out_trade_no = 2;
+}
+
+message GetPaymentResult {
+    string out_trade_no = 1;
+}
+
+message PaymentResult {
+    enum Result {
+        UNKNOWN = 0;
+        UNPAID = 1;
+        PAID = 2;
+        REFUNDED = 3;
+    }
+    Result result = 1;
+}
